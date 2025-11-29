@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# Build outputs
+dist/
+build/
+*.egg
+.pytest_cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+tmp/
+temp/
+.cache/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# ML models (keep them out unless necessary)
+*.h5
+*.pkl
+*.model
+
+# Specific to project
+backend/data/tokens.json
+backend/data/users.json

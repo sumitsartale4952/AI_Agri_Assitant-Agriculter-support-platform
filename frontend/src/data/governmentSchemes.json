@@ -1,0 +1,100 @@
+{
+  "schemes": [
+    {
+      "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "type": "Crop insurance",
+      "benefits": "Insurance coverage for crop losses due to natural calamities, pests, and diseases",
+      "premium": "1.5-5% of sum insured (varies)",
+      "coverage_limit": "Varies by notified sum insured",
+      "eligibility": "All farmers growing notified crops in notified areas",
+      "central_or_state": "Central",
+      "applicable_crops": "Notified crops (state-wise)",
+      "landholding": "All",
+      "source_link": "https://pmfby.gov.in/"
+    },
+    {
+      "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+      "type": "Direct income support",
+      "benefits": "₹6,000/year paid in 3 instalments to eligible land-owning farmers",
+      "premium": "No premium",
+      "coverage_limit": "₹6,000/year",
+      "eligibility": "Land-owning small & marginal farmers (subject to exclusions)",
+      "central_or_state": "Central",
+      "applicable_crops": "All",
+      "landholding": "As per scheme",
+      "source_link": "https://pmkisan.gov.in/"
+    },
+    {
+      "name": "Kisan Credit Card (KCC)",
+      "type": "Credit/Loan",
+      "benefits": "Short-term crop loans, working capital, term loans for agriculture activities",
+      "premium": "Interest rate varies; interest subvention available",
+      "coverage_limit": "Varies by bank and farmer",
+      "eligibility": "Farmers including allied sector beneficiaries",
+      "central_or_state": "Central",
+      "applicable_crops": "All",
+      "landholding": "All",
+      "source_link": "https://www.rbi.org.in/"
+    },
+    {
+      "name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+      "type": "Irrigation/Water management",
+      "benefits": "'Har Khet ko Pani' — irrigation coverage, micro-irrigation support, water conservation",
+      "premium": "Subsidies for micro-irrigation, per drop more crop (state-varied)",
+      "coverage_limit": "Project-based",
+      "eligibility": "Farmers, agencies",
+      "central_or_state": "Central",
+      "applicable_crops": "All",
+      "landholding": "All",
+      "source_link": "https://pmksy.gov.in/"
+    },
+    {
+      "name": "Soil Health Card Scheme",
+      "type": "Soil testing / Advisory",
+      "benefits": "Periodic soil testing and nutrient recommendations to farmers",
+      "premium": "FREE",
+      "coverage_limit": "Soil test based recommendations",
+      "eligibility": "All farmers (coverage depends on state capacity)",
+      "central_or_state": "Central",
+      "applicable_crops": "All",
+      "landholding": "All",
+      "source_link": "https://soilhealth.dac.gov.in/"
+    },
+    {
+      "name": "Pradhan Mantri Kisan Maandhan Yojana (PM-KMY)",
+      "type": "Pension / Social security",
+      "benefits": "Guaranteed pension of ₹3,000/month after 60",
+      "premium": "Farmer contribution ₹55-200/month (age dependent) plus government contribution",
+      "coverage_limit": "₹3,000/month pension",
+      "eligibility": "Small & marginal farmers aged 18-40 (landholding limits apply)",
+      "central_or_state": "Central",
+      "applicable_crops": "All",
+      "landholding": "≤2 hectares",
+      "source_link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1946816"
+    },
+    {
+      "name": "Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan (PM-KUSUM)",
+      "type": "Energy/Solar irrigation",
+      "benefits": "Support/subsidy for solar pumps, decentralised renewable power for agriculture",
+      "premium": "Subsidy levels vary (can be up to 60% for certain beneficiaries)",
+      "coverage_limit": "Depends on pump capacity/project",
+      "eligibility": "Farmers, FPOs, cooperatives",
+      "central_or_state": "Central",
+      "applicable_crops": "All",
+      "landholding": "All",
+      "source_link": "https://mnre.gov.in/pmkusum/"
+    },
+    {
+      "name": "National Mission for Sustainable Agriculture (NMSA)",
+      "type": "Sustainable agriculture",
+      "benefits": "Support to climate resilience, water conservation, soil health and organic farming",
+      "premium": "Subsidies vary",
+      "coverage_limit": "Varies by sub-scheme",
+      "eligibility": "Farmers adopting mission practices",
+      "central_or_state": "Central",
+      "applicable_crops": "All",
+      "landholding": "All",
+      "source_link": "https://nmsa.dac.gov.in/"
+    }
+  ]
+}

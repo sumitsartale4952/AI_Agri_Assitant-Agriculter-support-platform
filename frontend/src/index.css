@@ -1,0 +1,81 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Noto Sans', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+body {
+  background-color: #ffffff;
+  color: #212121;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Focus ring utilities */
+.focus-ring {
+  @apply focus:outline-none focus:ring-2 focus:ring-accentGreen focus:ring-offset-2;
+}
+
+/* Smooth transitions */
+.transition-smooth {
+  @apply transition-all duration-200 ease-in-out;
+}
+
+/* Touch target minimum */
+button, a, input[type="checkbox"], input[type="radio"] {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* Accessibility: hide but keep in tab order */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* Smooth scrollbar for webkit browsers */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #66BB6A;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2E7D32;
+}
+
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+
+.animate-marquee {
+  display: inline-block;
+  min-width: 100%;
+  white-space: nowrap;
+  animation: marquee 18s linear infinite;
+}

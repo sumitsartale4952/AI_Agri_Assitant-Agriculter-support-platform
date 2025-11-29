@@ -1,0 +1,598 @@
+[
+  {
+    "state": "Tamil Nadu",
+    "crop": "Maize",
+    "season": "Kharif",
+    "recommendations": [
+      {
+        "variety": "CO 1",
+        "priority": ["High Yield", "Disease Resistant"],
+        "features": {
+          "yield": "52 quintals/ha",
+          "resistance": ["Downy mildew"],
+          "quality": "Orange flint grain, sweet taste",
+          "duration": "105-110 days"
+        },
+        "source": "TNAU Agritech Portal:contentReference[oaicite:0]{index=0}"
+      },
+      {
+        "variety": "COH (M) 4",
+        "priority": ["High Yield", "Disease Resistant"],
+        "features": {
+          "yield": "57 quintals/ha",
+          "resistance": ["Downy mildew", "Stem borer"],
+          "quality": "Orange flint grain",
+          "duration": "94-95 days"
+        },
+        "source": "TNAU Agritech Portal:contentReference[oaicite:1]{index=1}"
+      },
+      {
+        "variety": "COBC 1",
+        "priority": ["High Yield", "Premium Quality"],
+        "features": {
+          "yield": "67 quintals/ha (fresh cobs)",
+          "resistance": ["Downy mildew", "Stem borer"],
+          "quality": "Sweet corn, 2-3 cobs/plant",
+          "duration": "60 days"
+        },
+        "source": "TNAU Agritech Portal:contentReference[oaicite:2]{index=2}"
+      }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "crop": "Finger Millet (Ragi)",
+    "season": "Kharif",
+    "recommendations": [
+      {
+        "variety": "CO 9",
+        "priority": ["High Yield"],
+        "features": {
+          "yield": "45 quintals/ha",
+          "resistance": [],
+          "quality": "White grain, nutritious",
+          "duration": "100-105 days"
+        },
+        "source": "TNAU Agritech Portal:contentReference[oaicite:3]{index=3}"
+      },
+      {
+        "variety": "CO 13",
+        "priority": ["High Yield"],
+        "features": {
+          "yield": "36 quintals/ha",
+          "resistance": [],
+          "quality": "Light brown grain",
+          "duration": "95-100 days"
+        },
+        "source": "TNAU Agritech Portal:contentReference[oaicite:4]{index=4}"
+      },
+      {
+        "variety": "CO (Ra) 14",
+        "priority": ["Drought Tolerant"],
+        "features": {
+          "yield": "29 quintals/ha",
+          "resistance": [],
+          "quality": "Brown grain",
+          "duration": "105-110 days"
+        },
+        "source": "TNAU Agritech Portal:contentReference[oaicite:5]{index=5}"
+      }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "crop": "Chickpea",
+    "season": "Rabi",
+    "recommendations": [
+      {
+        "variety": "IP 2010-142 (Kuber)",
+        "priority": ["High Yield", "Disease Resistant"],
+        "features": {
+          "yield": "20-22 quintals/ha",
+          "resistance": ["Fusarium wilt", "Dry root rot", "Ascochyta blight", "BGM"],
+          "quality": "Large brown seeds",
+          "duration": "130-140 days"
+        },
+        "source": "ICAR-IIPR, Kanpur:contentReference[oaicite:6]{index=6}"
+      },
+      {
+        "variety": "IPC 2007-28 (Atal)",
+        "priority": ["High Yield", "Disease Resistant"],
+        "features": {
+          "yield": "20-22 quintals/ha",
+          "resistance": ["Fusarium wilt", "Collar rot"],
+          "quality": "Medium brown seeds",
+          "duration": "115-125 days"
+        },
+        "source": "ICAR-IIPR, Kanpur"
+      },
+      {
+        "variety": "IPC 2010-134 (Shiva)",
+        "priority": ["High Yield", "Disease Resistant"],
+        "features": {
+          "yield": "22-24 quintals/ha",
+          "resistance": ["Fusarium wilt", "Dry root rot"],
+          "quality": "Large brown seeds",
+          "duration": "125-135 days"
+        },
+        "source": "ICAR-IIPR, Kanpur"
+      }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "crop": "Green Gram (Mungbean)",
+    "season": "Kharif",
+    "recommendations": [
+      {
+        "variety": "GAM 8 (Hara Moti)",
+        "priority": ["High Yield", "Disease Resistant"],
+        "features": {
+          "yield": "11.7 quintals/ha",
+          "resistance": ["MYMV", "LCV", "Anthracnose", "Powdery mildew"],
+          "quality": "Green seeds, high protein",
+          "duration": "Medium maturity"
+        },
+        "source": "AAU (Gujarat) / Research Trend:contentReference[oaicite:9]{index=9}"
+      }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "crop": "Pigeonpea (Tur)",
+    "season": "Kharif",
+    "recommendations": [
+      {
+        "variety": "IPA 15-6",
+        "priority": ["High Yield", "Disease Resistant"],
+        "features": {
+          "yield": "19 quintals/ha",
+          "resistance": ["Fusarium wilt", "Sterility mosaic"],
+          "quality": "Purple seed coat, yellow cotyledon",
+          "duration": "150-155 days"
+        },
+        "source": "ICAR-IIPR, Kanpur:contentReference[oaicite:10]{index=10}"
+      }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "crop": "Lentil (Masur)",
+    "season": "Rabi",
+    "recommendations": [
+      {
+        "variety": "IPL 534",
+        "priority": ["High Yield", "Disease Resistant"],
+        "features": {
+          "yield": "14-16 quintals/ha",
+          "resistance": ["Rust", "Wilt", "Stemphylium blight"],
+          "quality": "Brown seeds with red cotyledon",
+          "duration": "110-114 days"
+        },
+        "source": "ICAR-IIPR, Kanpur:contentReference[oaicite:11]{index=11}"
+      }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "crop": "Mustard",
+    "season": "Rabi",
+    "recommendations": [
+      {
+        "variety": "Pusa Mustard 30 (LES-43)",
+        "priority": ["High Yield", "Premium Quality"],
+        "features": {
+          "yield": "18.24 quintals/ha",
+          "resistance": [],
+          "quality": "37.7% oil, bold seeds",
+          "duration": "137 days"
+        },
+        "source": "IARI/New Delhi:contentReference[oaicite:12]{index=12}"
+      }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "crop": "Groundnut",
+    "season": "Kharif",
+    "recommendations": [
+      {
+        "variety": "GG 39 (ICGV 16697)",
+        "priority": ["High Yield", "Premium Quality"],
+        "features": {
+          "yield": "High (1150–1170 kg/ha)",
+          "resistance": ["Stem rot (lower incidence)"],
+          "quality": "High oleic acid, high oil content, rose-colored kernels",
+          "duration": "113 days"
+        },
+        "source": "ICRISAT & JAU:contentReference[oaicite:13]{index=13}"
+      }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "crop": "Sesame (Til)",
+    "season": "Kharif",
+    "recommendations": [
+      {
+        "variety": "Gujarat Til 7 (Banas Gaurav)",
+        "priority": ["High Yield", "Premium Quality"],
+        "features": {
+          "yield": "9.57 quintals/ha",
+          "resistance": [],
+          "quality": "49.06% oil content, bold seed (1000-seed wt 3.48g)",
+          "duration": "110-115 days"
+        },
+        "source": "CCR, SDAU (Gujarat):contentReference[oaicite:14]{index=14}"
+      }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "crop": "Wheat",
+    "season": "Rabi",
+    "recommendations": [
+      {
+        "variety": "PBW 826",
+        "priority": ["High Yield", "Disease Resistant"],
+        "features": {
+          "yield": "60 quintals/ha (24 quintals/acre)",
+          "resistance": ["Yellow rust", "Brown rust"],
+          "quality": "Bold, lustrous grains",
+          "duration": "148 days"
+        },
+        "source": "PAU / Global Agriculture:contentReference[oaicite:15]{index=15}"
+      }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "crop": "Sorghum (Jowar)",
+    "season": "Kharif",
+    "recommendations": [
+      {
+        "variety": "Paiyur 1",
+        "priority": ["High Yield", "Disease Resistant"],
+        "features": {
+          "yield": "30 quintals/ha (rainfed 25-35 q/ha)",
+          "resistance": ["Earhead bug", "Shoot fly"],
+          "quality": "Dual-purpose (grain + fodder)",
+          "duration": "145-150 days"
+        },
+        "source": "TNAU Agritech Portal:contentReference[oaicite:16]{index=16}"
+      }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "crop": "Desi Cotton",
+    "season": "Kharif",
+    "recommendations": [
+      {
+        "variety": "GADC-2 (Anand Desi Cotton 2)",
+        "priority": ["High Yield", "Premium Quality"],
+        "features": {
+          "yield": "16.4 quintals/ha",
+          "resistance": [],
+          "quality": "Fiber length >24 mm (suitable for denim), micronaire 4-4.8",
+          "duration": "150-160 days"
+        },
+        "source": "AAU (Anand) / TOI:contentReference[oaicite:17]{index=17}"
+      }
+    ]
+  }
+]
+[
+  {
+    "state": "Karnataka",
+    "crop": "Rice",
+    "season": "Kharif",
+    "recommendations": [
+      {
+        "variety": "IR 64",
+        "priority": ["High Yield"],
+        "features": {
+          "yield": "55-60 quintals/ha",
+          "resistance": ["Moderate blast tolerance"],
+          "quality": "Medium slender grains",
+          "duration": "120-125 days"
+        },
+        "source": "ICAR - Rice Research"
+      },
+      {
+        "variety": "MTU 1010",
+        "priority": ["High Yield", "Disease Resistant"],
+        "features": {
+          "yield": "60-65 quintals/ha",
+          "resistance": ["Bacterial blight"],
+          "quality": "Medium slender, good market value",
+          "duration": "125-130 days"
+        },
+        "source": "ANGRAU / ICAR"
+      }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "crop": "Barley",
+    "season": "Rabi",
+    "recommendations": [
+      {
+        "variety": "BH 902",
+        "priority": ["High Yield", "Premium Quality"],
+        "features": {
+          "yield": "45 quintals/ha",
+          "resistance": ["Rust"],
+          "quality": "Suitable for malting",
+          "duration": "140 days"
+        },
+        "source": "IARI Barley Research"
+      }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "crop": "Red Gram (Tur)",
+    "season": "Kharif",
+    "recommendations": [
+      {
+        "variety": "ICPL 87119",
+        "priority": ["Drought Resistant", "High Yield"],
+        "features": {
+          "yield": "18-20 quintals/ha",
+          "resistance": ["Wilt", "Mosaic virus"],
+          "quality": "Bold yellow seeds",
+          "duration": "160-170 days"
+        },
+        "source": "ICRISAT"
+      }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "crop": "Banana",
+    "season": "Perennial",
+    "recommendations": [
+      {
+        "variety": "Grand Nain",
+        "priority": ["High Yield", "Premium Quality"],
+        "features": {
+          "yield": "30-35 tons/acre",
+          "resistance": ["Sigatoka disease"],
+          "quality": "Export quality bananas",
+          "duration": "11-12 months"
+        },
+        "source": "ICAR NRC Banana"
+      }
+    ]
+  },
+  {
+    "state": "Assam",
+    "crop": "Tea",
+    "season": "Perennial",
+    "recommendations": [
+      {
+        "variety": "TV 23",
+        "priority": ["Premium Quality", "High Yield"],
+        "features": {
+          "yield": "3200-3500 kg/ha",
+          "resistance": ["Blister blight"],
+          "quality": "High liquor quality",
+          "duration": "Multiple pluckings annually"
+        },
+        "source": "Tea Research Association"
+      }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "crop": "Jute",
+    "season": "Kharif",
+    "recommendations": [
+      {
+        "variety": "JRO 204",
+        "priority": ["High Yield", "Disease Resistant"],
+        "features": {
+          "yield": "30-32 quintals/ha",
+          "resistance": ["Stem rot"],
+          "quality": "Long fiber jute",
+          "duration": "120 days"
+        },
+        "source": "CRIJAF"
+      }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "crop": "Castor",
+    "season": "Kharif",
+    "recommendations": [
+      {
+        "variety": "GCH 7",
+        "priority": ["High Yield", "Disease Resistant"],
+        "features": {
+          "yield": "18-20 quintals/ha",
+          "resistance": ["Wilt", "Root rot"],
+          "quality": "High oil content",
+          "duration": "165-170 days"
+        },
+        "source": "GAU"
+      }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "crop": "Potato",
+    "season": "Rabi",
+    "recommendations": [
+      {
+        "variety": "Kufri Bahar",
+        "priority": ["High Yield"],
+        "features": {
+          "yield": "28-30 tons/ha",
+          "resistance": ["Early blight"],
+          "quality": "Oval tubers, good storage",
+          "duration": "95-100 days"
+        },
+        "source": "CIP / CPRI Shimla"
+      },
+      {
+        "variety": "Kufri Jyoti",
+        "priority": ["Disease Resistant"],
+        "features": {
+          "yield": "25-28 tons/ha",
+          "resistance": ["Late blight"],
+          "quality": "White flesh, good frying quality",
+          "duration": "90-95 days"
+        },
+        "source": "CPRI Shimla"
+      }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "crop": "Sesamum (Til)",
+    "season": "Kharif",
+    "recommendations": [
+      {
+        "variety": "Uma",
+        "priority": ["High Yield", "Premium Quality"],
+        "features": {
+          "yield": "8-10 quintals/ha",
+          "resistance": ["Leaf curl"],
+          "quality": "High oil content",
+          "duration": "95-100 days"
+        },
+        "source": "OUAT"
+      }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "crop": "Sugarcane",
+    "season": "Annual",
+    "recommendations": [
+      {
+        "variety": "Co 86032",
+        "priority": ["High Yield", "Disease Resistant"],
+        "features": {
+          "yield": "100-120 tons/ha",
+          "resistance": ["Smut", "Wilt"],
+          "quality": "17-18% sucrose content",
+          "duration": "12-13 months"
+        },
+        "source": "Sugarcane Breeding Institute"
+      }
+    ]
+  }
+]
+{
+  "year": "2023-24",
+  "scheme_name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+  "official_website": "https://pmfby.gov.in",
+  "apply_online_url": "https://pmfby.gov.in/farmerRegistrationForm",
+  "common_details": {
+    "eligibility": {
+      "loanee_farmers": true,
+      "non_loanee_farmers": true,
+      "conditions": [
+        "Farmer must cultivate notified crops in notified area",
+        "Sowing must be declared",
+        "Aadhaar is mandatory",
+        "Land documents required for non-loanee farmers"
+      ]
+    },
+    "premium_rates": {
+      "kharif": "2% of Sum Insured",
+      "rabi": "1.5% of Sum Insured",
+      "annual_commercial_horticulture": "5% of Sum Insured"
+    },
+    "coverage_details": {
+      "risks_covered": [
+        "Natural fire and lightning",
+        "Storm, hailstorm, cyclone",
+        "Flood, inundation",
+        "Pest attack, disease",
+        "Drought and dry spells (weather-based triggers)"
+      ],
+      "sum_insured_example_per_hectare": 50000
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Ownership Papers (7/12 / RTC)",
+      "Bank Passbook",
+      "Sowing Declaration"
+    ],
+    "claim_process": [
+      "Notify crop loss within 72 hours",
+      "Submit photos & geo-tagging",
+      "Joint field inspection",
+      "Company assesses and approves",
+      "Claim credited to bank account"
+    ]
+  },
+  "insurance_companies": [
+    {
+      "company": "Agriculture Insurance Company of India (AIC)",
+      "website": "https://www.aicofindia.com"
+    },
+    {
+      "company": "Bajaj Allianz General Insurance",
+      "website": "https://www.bajajallianz.com"
+    },
+    {
+      "company": "HDFC ERGO",
+      "website": "https://www.hdfcergo.com"
+    }
+  ],
+  "state_wise_details": [
+    {
+      "state": "Maharashtra",
+      "season": "Kharif",
+      "crops_notified": ["Soybean", "Cotton", "Paddy"],
+      "farmer_applications_insured": 1250000,
+      "claims_paid_crore": 342.7,
+      "data_source": "https://data.gov.in/dataset/pmfby-maharashtra",
+      "apply_links": {
+        "state_portal": "https://mahaonline.gov.in",
+        "csc_center": "https://www.csc.gov.in"
+      }
+    },
+    {
+      "state": "Madhya Pradesh",
+      "season": "Kharif",
+      "crops_notified": ["Paddy", "Maize", "Urad", "Soybean"],
+      "farmer_applications_insured": 980000,
+      "claims_paid_crore": 289.1,
+      "data_source": "https://data.gov.in/dataset/pmfby-madhya-pradesh",
+      "apply_links": {
+        "state_portal": "https://mpkrishi.mp.gov.in",
+        "csc_center": "https://www.csc.gov.in"
+      }
+    },
+    {
+      "state": "Rajasthan",
+      "season": "Rabi",
+      "crops_notified": ["Wheat", "Barley", "Gram"],
+      "farmer_applications_insured": 840000,
+      "claims_paid_crore": 198.4,
+      "data_source": "https://data.gov.in/dataset/pmfby-rajasthan",
+      "apply_links": {
+        "state_portal": "https://sso.rajasthan.gov.in",
+        "csc_center": "https://www.csc.gov.in"
+      }
+    },
+    {
+      "state": "Gujarat",
+      "season": "Kharif",
+      "crops_notified": ["Groundnut", "Cotton", "Paddy"],
+      "farmer_applications_insured": 720000,
+      "claims_paid_crore": 156.2,
+      "data_source": "https://data.gov.in/dataset/pmfby-gujarat",
+      "apply_links": {
+        "state_portal": "https://ikhedut.gujarat.gov.in",
+        "csc_center": "https://www.csc.gov.in"
+      }
+    }
+  ]
+}

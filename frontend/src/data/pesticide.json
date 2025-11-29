@@ -1,0 +1,1586 @@
+[
+  {
+    "name": "2,4-D",
+    "category": "Herbicide",
+    "suitable_crops": "Wheat, Rice, Maize, Cotton",
+    "pre_harvest_interval": "21 days",
+    "max_applications": "2 times",
+    "safety_note": "Possible carcinogen, use protective gear",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=2,4-D",
+      "https://www.bighaat.com/search?query=2,4-D"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Acephate",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables, Tobacco",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "3 times",
+    "safety_note": "Toxic, wear gloves",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Acephate",
+      "https://www.bighaat.com/search?query=Acephate"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Acetamiprid",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "3 times",
+    "safety_note": "Toxic to bees",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Acetamiprid",
+      "https://www.bighaat.com/search?query=Acetamiprid"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Azadirachtin (Neem extract)",
+    "category": "Biopesticide",
+    "suitable_crops": "Vegetables, Fruits",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "10 times",
+    "safety_note": "Organic, safe",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Azadirachtin+(Neem+extract)",
+      "https://www.bighaat.com/search?query=Azadirachtin+(Neem+extract)"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Azoxystrobin",
+    "category": "Fungicide",
+    "suitable_crops": "Wheat, Rice, Grapes",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "4 times",
+    "safety_note": "Broad-spectrum fungicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Azoxystrobin",
+      "https://www.bighaat.com/search?query=Azoxystrobin"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Bacillus thuringiensis var. kurstaki (Bt)",
+    "category": "Biopesticide",
+    "suitable_crops": "Vegetables, Cotton, Millets",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "10 times",
+    "safety_note": "Bioinsecticide, safe",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Bacillus+thuringiensis+var.+kurstaki+(Bt)",
+      "https://www.bighaat.com/search?query=Bacillus+thuringiensis+var.+kurstaki+(Bt)"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Beauveria bassiana",
+    "category": "Biopesticide",
+    "suitable_crops": "Vegetables, Flowers",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Biological control fungus",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Beauveria+bassiana",
+      "https://www.bighaat.com/search?query=Beauveria+bassiana"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Carbendazim",
+    "category": "Fungicide",
+    "suitable_crops": "Wheat, Pulses, Fruits",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "4 times",
+    "safety_note": "Endocrine disruptor",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Carbendazim",
+      "https://www.bighaat.com/search?query=Carbendazim"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Carbofuran",
+    "category": "Insecticide",
+    "suitable_crops": "Rice, Maize",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Highly toxic, allow 45 days on sensitive crops",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Carbofuran",
+      "https://www.bighaat.com/search?query=Carbofuran"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Carbosulfan",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Rice",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "1 time",
+    "safety_note": "Very toxic, banned in many countries",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Carbosulfan",
+      "https://www.bighaat.com/search?query=Carbosulfan"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Chlorantraniliprole",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Rice",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Systemic insecticide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Chlorantraniliprole",
+      "https://www.bighaat.com/search?query=Chlorantraniliprole"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Chlorfenopyr",
+    "category": "Insecticide",
+    "suitable_crops": "Orchard crops, Rice",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "3 times",
+    "safety_note": "Contact/stomach action",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Chlorfenopyr",
+      "https://www.bighaat.com/search?query=Chlorfenopyr"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Chlorpyrifos",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Maize, Vegetables",
+    "pre_harvest_interval": "21 days",
+    "max_applications": "3 times",
+    "safety_note": "Safe for consumption after PHI",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Chlorpyrifos",
+      "https://www.bighaat.com/search?query=Chlorpyrifos"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Copper oxychloride",
+    "category": "Fungicide",
+    "suitable_crops": "All Vegetables, Grapes",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "10 times",
+    "safety_note": "Avoid acidic soils",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Copper+oxychloride",
+      "https://www.bighaat.com/search?query=Copper+oxychloride"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Cypermethrin",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "3 times",
+    "safety_note": "Toxic to fish",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Cypermethrin",
+      "https://www.bighaat.com/search?query=Cypermethrin"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Deltamethrin",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "2 times",
+    "safety_note": "Toxic to fish",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Deltamethrin",
+      "https://www.bighaat.com/search?query=Deltamethrin"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Dicofol",
+    "category": "Fungicide",
+    "suitable_crops": "Cotton, Tea",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Toxic to aquatic life",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Dicofol",
+      "https://www.bighaat.com/search?query=Dicofol"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Dimethoate",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "3 times",
+    "safety_note": "Highly toxic organophosphate",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Dimethoate",
+      "https://www.bighaat.com/search?query=Dimethoate"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Edifenphos",
+    "category": "Fungicide",
+    "suitable_crops": "Rice",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Used for blast in rice",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Edifenphos",
+      "https://www.bighaat.com/search?query=Edifenphos"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Emamectin benzoate",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "2 times",
+    "safety_note": "Biopesticide, from soil bacterium",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Emamectin+benzoate",
+      "https://www.bighaat.com/search?query=Emamectin+benzoate"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Ethion",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Very toxic - restricted",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Ethion",
+      "https://www.bighaat.com/search?query=Ethion"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Etiprole",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Rice",
+    "pre_harvest_interval": "21 days",
+    "max_applications": "3 times",
+    "safety_note": "Fipronil analog",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Etiprole",
+      "https://www.bighaat.com/search?query=Etiprole"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Fipronil",
+    "category": "Insecticide",
+    "suitable_crops": "Rice, Cotton",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Highly toxic, avoid bees",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Fipronil",
+      "https://www.bighaat.com/search?query=Fipronil"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Flonicamid",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "2 times",
+    "safety_note": "Systemic aphicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Flonicamid",
+      "https://www.bighaat.com/search?query=Flonicamid"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Flubendiamide",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Rice",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "2 times",
+    "safety_note": "High potency insecticide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Flubendiamide",
+      "https://www.bighaat.com/search?query=Flubendiamide"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Fluxapyroxad",
+    "category": "Fungicide",
+    "suitable_crops": "Wheat, Rice",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "New QoI fungicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Fluxapyroxad",
+      "https://www.bighaat.com/search?query=Fluxapyroxad"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Glufosinate",
+    "category": "Herbicide",
+    "suitable_crops": "Rice, Maize",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Non-selective herbicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Glufosinate",
+      "https://www.bighaat.com/search?query=Glufosinate"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Glyphosate",
+    "category": "Herbicide",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "2 times",
+    "safety_note": "Systemic non-selective",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Glyphosate",
+      "https://www.bighaat.com/search?query=Glyphosate"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Hexaconazole",
+    "category": "Fungicide",
+    "suitable_crops": "Rice, Grapes",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "3 times",
+    "safety_note": "Used against blast",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Hexaconazole",
+      "https://www.bighaat.com/search?query=Hexaconazole"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Imidacloprid",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Rice",
+    "pre_harvest_interval": "21 days",
+    "max_applications": "2 times",
+    "safety_note": "Neonicotinoid, avoid bees",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Imidacloprid",
+      "https://www.bighaat.com/search?query=Imidacloprid"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Indoxacarb",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "2 times",
+    "safety_note": "Reduced-risk insecticide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Indoxacarb",
+      "https://www.bighaat.com/search?query=Indoxacarb"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Kasugamycin",
+    "category": "Antibiotic",
+    "suitable_crops": "Rice",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "For bacterial leaf blight",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Kasugamycin",
+      "https://www.bighaat.com/search?query=Kasugamycin"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Lambda-cyhalothrin",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "2 times",
+    "safety_note": "Very toxic to fish",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Lambda-cyhalothrin",
+      "https://www.bighaat.com/search?query=Lambda-cyhalothrin"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Lime Sulphur",
+    "category": "Fungicide",
+    "suitable_crops": "Fruit Trees, Ornamentals",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "1 time",
+    "safety_note": "Use pre-bud break",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Lime+Sulphur",
+      "https://www.bighaat.com/search?query=Lime+Sulphur"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Lufenuron",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Chitin synthesis inhibitor",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Lufenuron",
+      "https://www.bighaat.com/search?query=Lufenuron"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Malathion",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "3 times",
+    "safety_note": "Organo-phosphate insecticide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Malathion",
+      "https://www.bighaat.com/search?query=Malathion"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Mancozeb",
+    "category": "Fungicide",
+    "suitable_crops": "Potato, Grapes, Tomato",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "4 times",
+    "safety_note": "Re-entry: 24 hours",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Mancozeb",
+      "https://www.bighaat.com/search?query=Mancozeb"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Metalaxyl",
+    "category": "Fungicide",
+    "suitable_crops": "Rice, Vegetables",
+    "pre_harvest_interval": "10 days",
+    "max_applications": "4 times",
+    "safety_note": "Systemic fungicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Metalaxyl",
+      "https://www.bighaat.com/search?query=Metalaxyl"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Metaldehyde",
+    "category": "Fungicide",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "3 times",
+    "safety_note": "Slug bait",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Metaldehyde",
+      "https://www.bighaat.com/search?query=Metaldehyde"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Metarhizium anisopliae",
+    "category": "Biopesticide",
+    "suitable_crops": "Ornamentals, Soil",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Entomopathogenic fungus",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Metarhizium+anisopliae",
+      "https://www.bighaat.com/search?query=Metarhizium+anisopliae"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Methomyl",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Maize",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Highly toxic carbamate",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Methomyl",
+      "https://www.bighaat.com/search?query=Methomyl"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Nuclear polyhedrosis virus (NPV)",
+    "category": "Biopesticide",
+    "suitable_crops": "Cotton (bollworms)",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Virus for caterpillar control",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Nuclear+polyhedrosis+virus+(NPV)",
+      "https://www.bighaat.com/search?query=Nuclear+polyhedrosis+virus+(NPV)"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Oxadiazon",
+    "category": "Herbicide",
+    "suitable_crops": "Vegetables, Ornamentals",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Pre-emergent herbicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Oxadiazon",
+      "https://www.bighaat.com/search?query=Oxadiazon"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Oxyfluorfen",
+    "category": "Herbicide",
+    "suitable_crops": "Rice, Soybean",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Contact herbicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Oxyfluorfen",
+      "https://www.bighaat.com/search?query=Oxyfluorfen"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Paclobutrazol",
+    "category": "Plant Growth Regulator",
+    "suitable_crops": "Fruit Trees, Ornamentals",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Growth inhibitor",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Paclobutrazol",
+      "https://www.bighaat.com/search?query=Paclobutrazol"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Paraquat",
+    "category": "Herbicide",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "21 days",
+    "max_applications": "2 times",
+    "safety_note": "Highly toxic - use with caution",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Paraquat",
+      "https://www.bighaat.com/search?query=Paraquat"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Penconazole",
+    "category": "Fungicide",
+    "suitable_crops": "Vegetables",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Systemic fungicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Penconazole",
+      "https://www.bighaat.com/search?query=Penconazole"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Pendimethalin",
+    "category": "Herbicide",
+    "suitable_crops": "Rice, Cotton",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "2 times",
+    "safety_note": "Pre-emergent use",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Pendimethalin",
+      "https://www.bighaat.com/search?query=Pendimethalin"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Permethrin",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "2 times",
+    "safety_note": "Pyrethroid insecticide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Permethrin",
+      "https://www.bighaat.com/search?query=Permethrin"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Phosalone",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Rice",
+    "pre_harvest_interval": "21 days",
+    "max_applications": "3 times",
+    "safety_note": "Highly toxic - banned in many areas",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Phosalone",
+      "https://www.bighaat.com/search?query=Phosalone"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Pinoxaden",
+    "category": "Herbicide",
+    "suitable_crops": "Wheat",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "2 times",
+    "safety_note": "Selective cereal herbicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Pinoxaden",
+      "https://www.bighaat.com/search?query=Pinoxaden"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Pseudomonas fluorescens",
+    "category": "Biopesticide",
+    "suitable_crops": "Vegetables, Cereals",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Biocontrol rhizobacterium",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Pseudomonas+fluorescens",
+      "https://www.bighaat.com/search?query=Pseudomonas+fluorescens"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Pyraclostrobin",
+    "category": "Fungicide",
+    "suitable_crops": "Wheat, Rice",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Strobilurin fungicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Pyraclostrobin",
+      "https://www.bighaat.com/search?query=Pyraclostrobin"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Pyrethrin",
+    "category": "Insecticide",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "10 times",
+    "safety_note": "Natural pyrethrum extract",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Pyrethrin",
+      "https://www.bighaat.com/search?query=Pyrethrin"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Pyriproxyfen",
+    "category": "Insecticide",
+    "suitable_crops": "Vegetables",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "2 times",
+    "safety_note": "Insect growth regulator",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Pyriproxyfen",
+      "https://www.bighaat.com/search?query=Pyriproxyfen"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Quinalphos",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "21 days",
+    "max_applications": "3 times",
+    "safety_note": "Highly toxic organophosphate",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Quinalphos",
+      "https://www.bighaat.com/search?query=Quinalphos"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Spinetoram",
+    "category": "Insecticide",
+    "suitable_crops": "Vegetables",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "2 times",
+    "safety_note": "Derived from soil bacterium",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Spinetoram",
+      "https://www.bighaat.com/search?query=Spinetoram"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Spinosad",
+    "category": "Insecticide",
+    "suitable_crops": "Vegetables",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "2 times",
+    "safety_note": "Low-toxicity bioinsecticide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Spinosad",
+      "https://www.bighaat.com/search?query=Spinosad"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Streptomycin",
+    "category": "Antibiotic",
+    "suitable_crops": "Fruit trees",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "For fire blight control",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Streptomycin",
+      "https://www.bighaat.com/search?query=Streptomycin"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Sulfosulfuron",
+    "category": "Herbicide",
+    "suitable_crops": "Wheat, Barley",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "ALS inhibitor",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Sulfosulfuron",
+      "https://www.bighaat.com/search?query=Sulfosulfuron"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Sulphur",
+    "category": "Fungicide",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "8 times",
+    "safety_note": "Organic fungicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Sulphur",
+      "https://www.bighaat.com/search?query=Sulphur"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Tebuconazole",
+    "category": "Fungicide",
+    "suitable_crops": "Wheat, Rice",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Systemic fungicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Tebuconazole",
+      "https://www.bighaat.com/search?query=Tebuconazole"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Tetraconazole",
+    "category": "Fungicide",
+    "suitable_crops": "Wheat",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Broad-spectrum fungicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Tetraconazole",
+      "https://www.bighaat.com/search?query=Tetraconazole"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Thiacloprid",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "2 times",
+    "safety_note": "Neonicotinoid",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Thiacloprid",
+      "https://www.bighaat.com/search?query=Thiacloprid"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Thifluzamide",
+    "category": "Fungicide",
+    "suitable_crops": "Rice",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "2 times",
+    "safety_note": "Soil-applied fungicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Thifluzamide",
+      "https://www.bighaat.com/search?query=Thifluzamide"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Thiobencarb",
+    "category": "Herbicide",
+    "suitable_crops": "Rice",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Pre-emergent herbicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Thiobencarb",
+      "https://www.bighaat.com/search?query=Thiobencarb"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Thiocyclam",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Mite growth inhibitor",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Thiocyclam",
+      "https://www.bighaat.com/search?query=Thiocyclam"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Thiodicarb",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "3 times",
+    "safety_note": "Carbamate insecticide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Thiodicarb",
+      "https://www.bighaat.com/search?query=Thiodicarb"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Thiamethoxam",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Neonicotinoid, avoid bees",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Thiamethoxam",
+      "https://www.bighaat.com/search?query=Thiamethoxam"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Thiophanate-methyl",
+    "category": "Fungicide",
+    "suitable_crops": "Vegetables, Fruits",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "2 times",
+    "safety_note": "Soil-borne disease control",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Thiophanate-methyl",
+      "https://www.bighaat.com/search?query=Thiophanate-methyl"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Thiram",
+    "category": "Fungicide",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Seed treatment fungicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Thiram",
+      "https://www.bighaat.com/search?query=Thiram"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Triacontanol",
+    "category": "Plant Growth Regulator",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "1 time",
+    "safety_note": "Natural growth stimulant",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Triacontanol",
+      "https://www.bighaat.com/search?query=Triacontanol"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Triadimefon",
+    "category": "Fungicide",
+    "suitable_crops": "Wheat",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Strobilurin fungicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Triadimefon",
+      "https://www.bighaat.com/search?query=Triadimefon"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Triallate",
+    "category": "Herbicide",
+    "suitable_crops": "Wheat",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Pre-emergent herbicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Triallate",
+      "https://www.bighaat.com/search?query=Triallate"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Trichoderma harzianum",
+    "category": "Biopesticide",
+    "suitable_crops": "Soil-borne diseases",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Beneficial soil fungus",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Trichoderma+harzianum",
+      "https://www.bighaat.com/search?query=Trichoderma+harzianum"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Trichoderma viride",
+    "category": "Biopesticide",
+    "suitable_crops": "Soil-borne diseases",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Beneficial soil fungus",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Trichoderma+viride",
+      "https://www.bighaat.com/search?query=Trichoderma+viride"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Tricyclazole",
+    "category": "Fungicide",
+    "suitable_crops": "Rice",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Rice blast fungicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Tricyclazole",
+      "https://www.bighaat.com/search?query=Tricyclazole"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Trifloxystrobin",
+    "category": "Fungicide",
+    "suitable_crops": "Wheat, Grapes",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "QoI fungicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Trifloxystrobin",
+      "https://www.bighaat.com/search?query=Trifloxystrobin"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Trifluralin",
+    "category": "Herbicide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "2 times",
+    "safety_note": "Soil herbicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Trifluralin",
+      "https://www.bighaat.com/search?query=Trifluralin"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Verticillium lecanii",
+    "category": "Biopesticide",
+    "suitable_crops": "Vegetables, Orchards",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Entomopathogenic fungus",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Verticillium+lecanii",
+      "https://www.bighaat.com/search?query=Verticillium+lecanii"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Zinc Phosphide",
+    "category": "Rodenticide",
+    "suitable_crops": "Stored Grains",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "1 time",
+    "safety_note": "Extremely toxic, bait only",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Zinc+Phosphide",
+      "https://www.bighaat.com/search?query=Zinc+Phosphide"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Zineb",
+    "category": "Fungicide",
+    "suitable_crops": "Vegetables, Grapes",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "4 times",
+    "safety_note": "Dithiocarbamate fungicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Zineb",
+      "https://www.bighaat.com/search?query=Zineb"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Ziram",
+    "category": "Fungicide",
+    "suitable_crops": "Vegetables, Grapes",
+    "pre_harvest_interval": "21 days",
+    "max_applications": "2 times",
+    "safety_note": "Dithiocarbamate fungicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Ziram",
+      "https://www.bighaat.com/search?query=Ziram"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Neem Oil",
+    "category": "Organic Insecticide",
+    "suitable_crops": "Vegetables, Fruits",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "10 times",
+    "safety_note": "Safe, organic",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Neem+Oil",
+      "https://www.bighaat.com/search?query=Neem+Oil"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Pongamia Oil",
+    "category": "Organic Insecticide",
+    "suitable_crops": "Vegetables",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "5 times",
+    "safety_note": "Traditional botanical pesticide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Pongamia+Oil",
+      "https://www.bighaat.com/search?query=Pongamia+Oil"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Vermicompost",
+    "category": "Nutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Organic soil amendment",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Vermicompost",
+      "https://www.bighaat.com/search?query=Vermicompost"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Azotobacter",
+    "category": "Biofertilizer",
+    "suitable_crops": "Legumes",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Nitrogen-fixing bacteria",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Azotobacter",
+      "https://www.bighaat.com/search?query=Azotobacter"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Rhizobium",
+    "category": "Biofertilizer",
+    "suitable_crops": "Legumes",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Root nodule inoculant",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Rhizobium",
+      "https://www.bighaat.com/search?query=Rhizobium"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Humic Acid",
+    "category": "Nutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Soil health amendment",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Humic+Acid",
+      "https://www.bighaat.com/search?query=Humic+Acid"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "NPK 19-19-19",
+    "category": "Nutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Balanced fertilizer",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=NPK+19-19-19",
+      "https://www.bighaat.com/search?query=NPK+19-19-19"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "DAP",
+    "category": "Nutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Phosphorus fertilizer",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=DAP",
+      "https://www.bighaat.com/search?query=DAP"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "MOP",
+    "category": "Nutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Potassium fertilizer",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=MOP",
+      "https://www.bighaat.com/search?query=MOP"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Gypsum",
+    "category": "Nutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Calcium soil amendment",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Gypsum",
+      "https://www.bighaat.com/search?query=Gypsum"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Boric Acid",
+    "category": "Micronutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Boron supplement",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Boric+Acid",
+      "https://www.bighaat.com/search?query=Boric+Acid"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Zinc Sulfate",
+    "category": "Micronutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Zinc supplement",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Zinc+Sulfate",
+      "https://www.bighaat.com/search?query=Zinc+Sulfate"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Copper Sulfate",
+    "category": "Micronutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Copper supplement",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Copper+Sulfate",
+      "https://www.bighaat.com/search?query=Copper+Sulfate"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Sodium Bicarbonate",
+    "category": "Fungicide",
+    "suitable_crops": "Vegetables",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "10 times",
+    "safety_note": "Baking soda fungicide",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Sodium+Bicarbonate",
+      "https://www.bighaat.com/search?query=Sodium+Bicarbonate"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Bacillus subtilis",
+    "category": "Biopesticide",
+    "suitable_crops": "Vegetables",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Beneficial bacterium",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Bacillus+subtilis",
+      "https://www.bighaat.com/search?query=Bacillus+subtilis"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  },
+  {
+    "name": "Potassium Soap",
+    "category": "Organic Insecticide",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "10 times",
+    "safety_note": "Potassium salts, non-toxic repellent",
+    "purchase_links": [
+      "https://www.amazon.in/s?k=Potassium+Soap",
+      "https://www.bighaat.com/search?query=Potassium+Soap"
+    ],
+    "image_urls": [
+      "https://www.dhanuka.com/",
+      "https://cultree.in/"
+    ]
+  }
+]

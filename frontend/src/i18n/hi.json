@@ -1,0 +1,230 @@
+{
+  "header": {
+    "logo_alt": "AI कृषि सहायक",
+    "search_placeholder": "योजनाएं, फसल, मंडी खोजें...",
+    "language": "भाषा",
+    "english": "English",
+    "hindi": "हिंदी",
+    "telugu": "తెలుగు",
+    "notifications": "सूचनाएं",
+    "profile": "प्रोफाइल",
+    "logout": "लॉगआउट",
+    "my_farms": "मेरी जमीनें",
+    "settings": "सेटिंग्स",
+    "help": "मदद"
+  },
+  "snapshot_bar": {
+    "weather": "मौसम",
+    "price_snapshot": "मूल्य स्नैपशॉट",
+    "soil_upload": "मिट्टी रिपोर्ट",
+    "emergency_alert": "सतर्कता",
+    "upload_pdf_photo": "मिट्टी रिपोर्ट अपलोड करें (PDF / फोटो)",
+    "get_npk_2_mins": "2 मिनट में NPK पाएं",
+    "last_updated": "अंतिम अपडेट",
+    "view_details": "विवरण देखें"
+  },
+  "primary_actions": {
+    "diagnose_disease": "रोग निदान करें",
+    "diagnose_disease_desc": "छवि अपलोड और AI विश्लेषण",
+    "predict_yield": "उपज का पूर्वानुमान",
+    "predict_yield_desc": "फॉर्म: फसल, क्षेत्र, बुवाई की तारीख",
+    "upload_soil": "मिट्टी रिपोर्ट अपलोड करें",
+    "upload_soil_desc": "OCR - NPK सलाह प्राप्त करें",
+    "check_schemes": "योजनाएं देखें",
+    "check_schemes_desc": "PMFBY/DBT को राज्य द्वारा खोजें"
+  },
+  "modules": {
+    "crop_disease": "फसल रोग",
+    "crop_disease_desc": "फोटो से रोग की पहचान करें",
+    "soil_health": "मिट्टी स्वास्थ्य और उर्वरक",
+    "soil_health_desc": "मिट्टी परीक्षण अपलोड करें; NPK सलाह प्राप्त करें",
+    "irrigation": "सिंचाई और मौसम",
+    "irrigation_desc": "सिंचाई शेड्यूल और सतर्कता",
+    "yield_prediction": "उपज की भविष्यवाणी और बाजार मूल्य",
+    "yield_prediction_desc": "उपज का अनुमान लगाएं और मंडी दरें जांचें",
+    "pest_weed": "कीट और खरपतवार प्रबंधन",
+    "pest_weed_desc": "कीटों का पता लगाएं; जैविक और रासायनिक नियंत्रण",
+    "schemes": "सरकारी योजनाएं और सब्सिडी",
+    "schemes_desc": "योजनाएं खोजें और आवेदन करें",
+    "seed_selection": "बीज चयन और फसल योजना",
+    "seed_selection_desc": "आपके क्षेत्र के लिए सर्वोत्तम बीज किस्में",
+    "safety": "कीटनाशक/उर्वरक सुरक्षा",
+    "safety_desc": "कटाई से पहले सुरक्षा अंतराल",
+    "insurance": "बीमा सलाह (PMFBY)",
+    "insurance_desc": "पात्रता और प्रीमियम जांचें",
+    "loan": "ऋण और क्रेडिट मार्गदर्शन",
+    "loan_desc": "KCC और बैंक ऋण विकल्प",
+    "open": "खोलें",
+    "quick_action": "त्वरित कार्रवाई"
+  },
+  "featured": {
+    "latest_advisories": "नवीनतम सरकारी सलाह और योजनाएं",
+    "no_advisories": "कोई सलाह उपलब्ध नहीं है",
+    "read_more": "और पढ़ें",
+    "market_chart": "बाजार चार्ट",
+    "last_7_days": "पिछले 7 दिन",
+    "set_price_alert": "मूल्य सतर्कता सेट करें",
+    "export_report": "रिपोर्ट निर्यात करें",
+    "share": "साझा करें",
+    "data_source": "डेटा स्रोत",
+    "updated": "अपडेट किया गया"
+  },
+  "advertisement": {
+    "sponsored": "प्रायोजित",
+    "advertisement": "विज्ञापन"
+  },
+  "footer": {
+    "about_heading": "परिचय",
+    "about_text": "AI कृषि सहायक भारतीय किसानों को फसल रोग का पता लगाने, मिट्टी स्वास्थ्य निगरानी, उपज की भविष्यवाणी और सरकारी योजनाओं तक पहुंचने में मदद करता है।",
+    "government_links": "सरकारी लिंक",
+    "agmarknet": "एग्रीमार्केट",
+    "enam": "eNAM",
+    "pmfby": "PMFBY",
+    "soil_health_card": "मिट्टी स्वास्थ्य कार्ड",
+    "icar": "ICAR",
+    "resources": "संसाधन",
+    "faqs": "अक्सर पूछे जाने वाले प्रश्न",
+    "how_to_photo": "फसल की फोटो कैसे लें",
+    "privacy": "डेटा और गोपनीयता",
+    "support": "सहायता से संपर्क करें",
+    "contact": "संपर्क और सहायता",
+    "helpline": "हेल्पलाइन: 1800-123-4567",
+    "email": "ईमेल: support@aiagriastant.gov.in",
+    "follow_us": "हमें फॉलो करें",
+    "copyright": "© 2025 AI कृषि सहायक। सर्वाधिकार सुरक्षित।",
+    "version": "संस्करण 1.0.0",
+    "terms": "सेवा की शर्तें",
+    "privacy_policy": "गोपनीयता नीति"
+  },
+  "search": {
+    "schemes": "योजनाएं",
+    "markets": "बाजार",
+    "advisories": "सलाह",
+    "help": "मदद",
+    "no_results": "कोई परिणाम नहीं मिला",
+    "search_results": "खोज परिणाम"
+  },
+  "pages": {
+    "crop_disease": {
+      "title": "फसल रोग का पता लगाना",
+      "subtitle": "अपनी फसल की फोटो अपलोड करें और AI-संचालित निदान प्राप्त करें",
+      "upload_label": "फसल की फोटो अपलोड करें",
+      "analyze_btn": "छवि का विश्लेषण करें",
+      "disease_name": "पहचाना गया रोग",
+      "confidence": "विश्वसनीयता",
+      "treatment": "अनुशंसित उपचार"
+    },
+    "soil_health": {
+      "title": "मिट्टी स्वास्थ्य विश्लेषण",
+      "subtitle": "मिट्टी परीक्षण रिपोर्ट अपलोड करें और उर्वरक सिफारिशें प्राप्त करें",
+      "npk_values": "NPK मान",
+      "nitrogen": "नाइट्रोजन",
+      "phosphorus": "फॉस्फोरस",
+      "potassium": "पोटेशियम",
+      "recommendations": "उर्वरक सिफारिशें"
+    },
+    "irrigation": {
+      "title": "सिंचाई प्रबंधन",
+      "subtitle": "अपनी फसल और मौसम के आधार पर सिंचाई शेड्यूल प्राप्त करें",
+      "crop_type": "फसल प्रकार",
+      "soil_type": "मिट्टी का प्रकार",
+      "water_requirement": "जल आवश्यकता"
+    },
+    "yield_prediction": {
+      "title": "उपज की भविष्यवाणी और बाजार मूल्य",
+      "subtitle": "अपनी उपज का पूर्वानुमान लगाएं और बाजार मूल्य जांचें",
+      "mandi_prices": "मंडी मूल्य",
+      "search_commodity": "वस्तु खोजें",
+      "market": "बाजार",
+      "price": "कीमत (₹)"
+    },
+    "safety": {
+      "title": "कीटनाशक सुरक्षा अंतराल",
+      "subtitle": "कीटनाशक उपयोग करने से पहले सुरक्षित कटाई अंतराल जांचें",
+      "search_pesticide": "कीटनाशक खोजें",
+      "phi": "PHI (दिन)",
+      "max_sprays": "अधिकतम छिड़काव",
+      "safety_note": "सुरक्षा नोट"
+    },
+    "schemes": {
+      "title": "सरकारी योजनाएं",
+      "subtitle": "कृषि सब्सिडी योजनाएं खोजें और आवेदन करें",
+      "search_schemes": "योजनाएं खोजें",
+      "eligible": "आप पात्र हैं",
+      "requirements": "आवश्यकताएं"
+    },
+    "insurance": {
+      "title": "बीमा सलाह (PMFBY)",
+      "subtitle": "पात्रता और प्रीमियम विवरण जांचें",
+      "check_eligibility": "पात्रता जांचें",
+      "premium": "प्रीमियम",
+      "coverage": "कवरेज"
+    },
+    "loan": {
+      "title": "ऋण और क्रेडिट मार्गदर्शन",
+      "subtitle": "KCC और बैंक ऋण विकल्पों पर जानकारी प्राप्त करें",
+      "loan_type": "ऋण प्रकार",
+      "interest_rate": "ब्याज दर",
+      "eligibility": "पात्रता मानदंड"
+    },
+    "seed": {
+      "title": "बीज चयन",
+      "subtitle": "अपने क्षेत्र के लिए सर्वोत्तम बीज किस्में प्राप्त करें",
+      "crop": "फसल",
+      "variety": "किस्म",
+      "expected_yield": "अपेक्षित उपज"
+    }
+  },
+  "dashboard": {
+    "title": "डैशबोर्ड",
+    "welcome": "स्वागत है",
+    "my_activities": "मेरी गतिविधियां",
+    "my_schemes": "मेरी योजनाएं",
+    "my_crops": "मेरी फसलें"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "register": "रजिस्टर",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirm_password": "पासवर्ड की पुष्टि करें",
+    "name": "पूरा नाम",
+    "phone": "फोन नंबर",
+    "farm_size": "खेत का आकार (हेक्टेयर)",
+    "location": "स्थान",
+    "login_btn": "लॉगिन",
+    "register_btn": "रजिस्टर",
+    "already_account": "पहले से खाता है?",
+    "no_account": "खाता नहीं है?"
+  },
+  "notifications_page": {
+    "title": "सभी सूचनाएं",
+    "subtitle": "महत्वपूर्ण सतर्कताओं के साथ अपडेट रहें",
+    "filter_by": "सेवा द्वारा फ़िल्टर करें"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "एक त्रुटि हुई",
+    "try_again": "फिर से कोशिश करें",
+    "cancel": "रद्द करें",
+    "submit": "जमा करें",
+    "close": "बंद करें",
+    "save": "सहेजें",
+    "edit": "संपादित करें",
+    "delete": "हटाएं",
+    "download": "डाउनलोड करें",
+    "location": "स्थान",
+    "temperature": "तापमान",
+    "humidity": "आर्द्रता",
+    "rainfall": "वर्षा",
+    "success": "सफल",
+    "warning": "चेतावनी",
+    "info": "जानकारी",
+    "yes": "हां",
+    "no": "नहीं",
+    "back": "पीछे",
+    "next": "आगे",
+    "home": "घर",
+    "all": "सभी"
+  }
+}

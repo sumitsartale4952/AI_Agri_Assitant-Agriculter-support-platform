@@ -1,0 +1,794 @@
+[
+  {
+    "name": "2,4-D",
+    "category": "Herbicide",
+    "suitable_crops": "Wheat, Rice, Maize, Cotton",
+    "pre_harvest_interval": "21 days",
+    "max_applications": "2 times",
+    "safety_note": "Possible carcinogen, use protective gear"
+  },
+  {
+    "name": "Acephate",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables, Tobacco",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "3 times",
+    "safety_note": "Toxic, wear gloves"
+  },
+  {
+    "name": "Acetamiprid",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "3 times",
+    "safety_note": "Toxic to bees"
+  },
+  {
+    "name": "Azadirachtin (Neem extract)",
+    "category": "Biopesticide",
+    "suitable_crops": "Vegetables, Fruits",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "10 times",
+    "safety_note": "Organic, safe"
+  },
+  {
+    "name": "Azoxystrobin",
+    "category": "Fungicide",
+    "suitable_crops": "Wheat, Rice, Grapes",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "4 times",
+    "safety_note": "Broad-spectrum fungicide"
+  },
+  {
+    "name": "Bacillus thuringiensis var. kurstaki (Bt)",
+    "category": "Biopesticide",
+    "suitable_crops": "Vegetables, Cotton, Millets",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "10 times",
+    "safety_note": "Bioinsecticide, safe"
+  },
+  {
+    "name": "Beauveria bassiana",
+    "category": "Biopesticide",
+    "suitable_crops": "Vegetables, Flowers",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Biological control fungus"
+  },
+  {
+    "name": "Carbendazim",
+    "category": "Fungicide",
+    "suitable_crops": "Wheat, Pulses, Fruits",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "4 times",
+    "safety_note": "Endocrine disruptor"
+  },
+  {
+    "name": "Carbofuran",
+    "category": "Insecticide",
+    "suitable_crops": "Rice, Maize",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Highly toxic, allow 45 days on sensitive crops"
+  },
+  {
+    "name": "Carbosulfan",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Rice",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "1 time",
+    "safety_note": "Very toxic, banned in many countries"
+  },
+  {
+    "name": "Chlorantraniliprole",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Rice",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Systemic insecticide"
+  },
+  {
+    "name": "Chlorfenopyr",
+    "category": "Insecticide",
+    "suitable_crops": "Orchard crops, Rice",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "3 times",
+    "safety_note": "Contact/stomach action"
+  },
+  {
+    "name": "Chlorpyrifos",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Maize, Vegetables",
+    "pre_harvest_interval": "21 days",
+    "max_applications": "3 times",
+    "safety_note": "Safe for consumption after PHI"
+  },
+  {
+    "name": "Copper oxychloride",
+    "category": "Fungicide",
+    "suitable_crops": "All Vegetables, Grapes",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "10 times",
+    "safety_note": "Avoid acidic soils"
+  },
+  {
+    "name": "Cypermethrin",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "3 times",
+    "safety_note": "Toxic to fish"
+  },
+  {
+    "name": "Deltamethrin",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "2 times",
+    "safety_note": "Toxic to fish"
+  },
+  {
+    "name": "Dicofol",
+    "category": "Fungicide",
+    "suitable_crops": "Cotton, Tea",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Toxic to aquatic life"
+  },
+  {
+    "name": "Dimethoate",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "3 times",
+    "safety_note": "Highly toxic organophosphate"
+  },
+  {
+    "name": "Edifenphos",
+    "category": "Fungicide",
+    "suitable_crops": "Rice",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Used for blast in rice"
+  },
+  {
+    "name": "Emamectin benzoate",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "2 times",
+    "safety_note": "Biopesticide, from soil bacterium"
+  },
+  {
+    "name": "Ethion",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Very toxic - restricted"
+  },
+  {
+    "name": "Etiprole",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Rice",
+    "pre_harvest_interval": "21 days",
+    "max_applications": "3 times",
+    "safety_note": "Fipronil analog"
+  },
+  {
+    "name": "Fipronil",
+    "category": "Insecticide",
+    "suitable_crops": "Rice, Cotton",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Highly toxic, avoid bees"
+  },
+  {
+    "name": "Flonicamid",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "2 times",
+    "safety_note": "Systemic aphicide"
+  },
+  {
+    "name": "Flubendiamide",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Rice",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "2 times",
+    "safety_note": "High potency insecticide"
+  },
+  {
+    "name": "Fluxapyroxad",
+    "category": "Fungicide",
+    "suitable_crops": "Wheat, Rice",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "New QoI fungicide"
+  },
+  {
+    "name": "Glufosinate",
+    "category": "Herbicide",
+    "suitable_crops": "Rice, Maize",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Non-selective herbicide"
+  },
+  {
+    "name": "Glyphosate",
+    "category": "Herbicide",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "2 times",
+    "safety_note": "Systemic non-selective"
+  },
+  {
+    "name": "Hexaconazole",
+    "category": "Fungicide",
+    "suitable_crops": "Rice, Grapes",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "3 times",
+    "safety_note": "Used against blast"
+  },
+  {
+    "name": "Imidacloprid",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Rice",
+    "pre_harvest_interval": "21 days",
+    "max_applications": "2 times",
+    "safety_note": "Neonicotinoid, avoid bees"
+  },
+  {
+    "name": "Indoxacarb",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "2 times",
+    "safety_note": "Reduced-risk insecticide"
+  },
+  {
+    "name": "Kasugamycin",
+    "category": "Antibiotic",
+    "suitable_crops": "Rice",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "For bacterial leaf blight"
+  },
+  {
+    "name": "Lambda-cyhalothrin",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "2 times",
+    "safety_note": "Very toxic to fish"
+  },
+  {
+    "name": "Lime Sulphur",
+    "category": "Fungicide",
+    "suitable_crops": "Fruit Trees, Ornamentals",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "1 time",
+    "safety_note": "Use pre-bud break"
+  },
+  {
+    "name": "Lufenuron",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Chitin synthesis inhibitor"
+  },
+  {
+    "name": "Malathion",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "3 times",
+    "safety_note": "Organo-phosphate insecticide"
+  },
+  {
+    "name": "Mancozeb",
+    "category": "Fungicide",
+    "suitable_crops": "Potato, Grapes, Tomato",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "4 times",
+    "safety_note": "Re-entry: 24 hours"
+  },
+  {
+    "name": "Metalaxyl",
+    "category": "Fungicide",
+    "suitable_crops": "Rice, Vegetables",
+    "pre_harvest_interval": "10 days",
+    "max_applications": "4 times",
+    "safety_note": "Systemic fungicide"
+  },
+  {
+    "name": "Metaldehyde",
+    "category": "Fungicide",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "3 times",
+    "safety_note": "Slug bait"
+  },
+  {
+    "name": "Metarhizium anisopliae",
+    "category": "Biopesticide",
+    "suitable_crops": "Ornamentals, Soil",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Entomopathogenic fungus"
+  },
+  {
+    "name": "Methomyl",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Maize",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Highly toxic carbamate"
+  },
+  {
+    "name": "Nuclear polyhedrosis virus (NPV)",
+    "category": "Biopesticide",
+    "suitable_crops": "Cotton (bollworms)",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Virus for caterpillar control"
+  },
+  {
+    "name": "Oxadiazon",
+    "category": "Herbicide",
+    "suitable_crops": "Vegetables, Ornamentals",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Pre-emergent herbicide"
+  },
+  {
+    "name": "Oxyfluorfen",
+    "category": "Herbicide",
+    "suitable_crops": "Rice, Soybean",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Contact herbicide"
+  },
+  {
+    "name": "Paclobutrazol",
+    "category": "Plant Growth Regulator",
+    "suitable_crops": "Fruit Trees, Ornamentals",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Growth inhibitor"
+  },
+  {
+    "name": "Paraquat",
+    "category": "Herbicide",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "21 days",
+    "max_applications": "2 times",
+    "safety_note": "Highly toxic - use with caution"
+  },
+  {
+    "name": "Penconazole",
+    "category": "Fungicide",
+    "suitable_crops": "Vegetables",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Systemic fungicide"
+  },
+  {
+    "name": "Pendimethalin",
+    "category": "Herbicide",
+    "suitable_crops": "Rice, Cotton",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "2 times",
+    "safety_note": "Pre-emergent use"
+  },
+  {
+    "name": "Permethrin",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "2 times",
+    "safety_note": "Pyrethroid insecticide"
+  },
+  {
+    "name": "Phosalone",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Rice",
+    "pre_harvest_interval": "21 days",
+    "max_applications": "3 times",
+    "safety_note": "Highly toxic - banned in many areas"
+  },
+  {
+    "name": "Pinoxaden",
+    "category": "Herbicide",
+    "suitable_crops": "Wheat",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "2 times",
+    "safety_note": "Selective cereal herbicide"
+  },
+  {
+    "name": "Pseudomonas fluorescens",
+    "category": "Biopesticide",
+    "suitable_crops": "Vegetables, Cereals",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Biocontrol rhizobacterium"
+  },
+  {
+    "name": "Pyraclostrobin",
+    "category": "Fungicide",
+    "suitable_crops": "Wheat, Rice",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Strobilurin fungicide"
+  },
+  {
+    "name": "Pyrethrin",
+    "category": "Insecticide",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "10 times",
+    "safety_note": "Natural pyrethrum extract"
+  },
+  {
+    "name": "Pyriproxyfen",
+    "category": "Insecticide",
+    "suitable_crops": "Vegetables",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "2 times",
+    "safety_note": "Insect growth regulator"
+  },
+  {
+    "name": "Quinalphos",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "21 days",
+    "max_applications": "3 times",
+    "safety_note": "Highly toxic organophosphate"
+  },
+  {
+    "name": "Spinetoram",
+    "category": "Insecticide",
+    "suitable_crops": "Vegetables",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "2 times",
+    "safety_note": "Derived from soil bacterium"
+  },
+  {
+    "name": "Spinosad",
+    "category": "Insecticide",
+    "suitable_crops": "Vegetables",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "2 times",
+    "safety_note": "Low-toxicity bioinsecticide"
+  },
+  {
+    "name": "Streptomycin",
+    "category": "Antibiotic",
+    "suitable_crops": "Fruit trees",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "For fire blight control"
+  },
+  {
+    "name": "Sulfosulfuron",
+    "category": "Herbicide",
+    "suitable_crops": "Wheat, Barley",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "ALS inhibitor"
+  },
+  {
+    "name": "Sulphur",
+    "category": "Fungicide",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "8 times",
+    "safety_note": "Organic fungicide"
+  },
+  {
+    "name": "Tebuconazole",
+    "category": "Fungicide",
+    "suitable_crops": "Wheat, Rice",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Systemic fungicide"
+  },
+  {
+    "name": "Tetraconazole",
+    "category": "Fungicide",
+    "suitable_crops": "Wheat",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Broad-spectrum fungicide"
+  },
+  {
+    "name": "Thiacloprid",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "3 days",
+    "max_applications": "2 times",
+    "safety_note": "Neonicotinoid"
+  },
+  {
+    "name": "Thifluzamide",
+    "category": "Fungicide",
+    "suitable_crops": "Rice",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "2 times",
+    "safety_note": "Soil-applied fungicide"
+  },
+  {
+    "name": "Thiobencarb",
+    "category": "Herbicide",
+    "suitable_crops": "Rice",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Pre-emergent herbicide"
+  },
+  {
+    "name": "Thiocyclam",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Mite growth inhibitor"
+  },
+  {
+    "name": "Thiodicarb",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "3 times",
+    "safety_note": "Carbamate insecticide"
+  },
+  {
+    "name": "Thiamethoxam",
+    "category": "Insecticide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "Neonicotinoid, avoid bees"
+  },
+  {
+    "name": "Thiophanate-methyl",
+    "category": "Fungicide",
+    "suitable_crops": "Vegetables, Fruits",
+    "pre_harvest_interval": "7 days",
+    "max_applications": "2 times",
+    "safety_note": "Soil-borne disease control"
+  },
+  {
+    "name": "Thiram",
+    "category": "Fungicide",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Seed treatment fungicide"
+  },
+  {
+    "name": "Triacontanol",
+    "category": "Plant Growth Regulator",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "1 time",
+    "safety_note": "Natural growth stimulant"
+  },
+  {
+    "name": "Triadimefon",
+    "category": "Fungicide",
+    "suitable_crops": "Wheat",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Strobilurin fungicide"
+  },
+  {
+    "name": "Triallate",
+    "category": "Herbicide",
+    "suitable_crops": "Wheat",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Pre-emergent herbicide"
+  },
+  {
+    "name": "Trichoderma harzianum",
+    "category": "Biopesticide",
+    "suitable_crops": "Soil-borne diseases",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Beneficial soil fungus"
+  },
+  {
+    "name": "Trichoderma viride",
+    "category": "Biopesticide",
+    "suitable_crops": "Soil-borne diseases",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Beneficial soil fungus"
+  },
+  {
+    "name": "Tricyclazole",
+    "category": "Fungicide",
+    "suitable_crops": "Rice",
+    "pre_harvest_interval": "30 days",
+    "max_applications": "2 times",
+    "safety_note": "Rice blast fungicide"
+  },
+  {
+    "name": "Trifloxystrobin",
+    "category": "Fungicide",
+    "suitable_crops": "Wheat, Grapes",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "2 times",
+    "safety_note": "QoI fungicide"
+  },
+  {
+    "name": "Trifluralin",
+    "category": "Herbicide",
+    "suitable_crops": "Cotton, Vegetables",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "2 times",
+    "safety_note": "Soil herbicide"
+  },
+  {
+    "name": "Verticillium lecanii",
+    "category": "Biopesticide",
+    "suitable_crops": "Vegetables, Orchards",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Entomopathogenic fungus"
+  },
+  {
+    "name": "Zinc Phosphide",
+    "category": "Rodenticide",
+    "suitable_crops": "Stored Grains",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "1 time",
+    "safety_note": "Extremely toxic, bait only"
+  },
+  {
+    "name": "Zineb",
+    "category": "Fungicide",
+    "suitable_crops": "Vegetables, Grapes",
+    "pre_harvest_interval": "14 days",
+    "max_applications": "4 times",
+    "safety_note": "Dithiocarbamate fungicide"
+  },
+  {
+    "name": "Ziram",
+    "category": "Fungicide",
+    "suitable_crops": "Vegetables, Grapes",
+    "pre_harvest_interval": "21 days",
+    "max_applications": "2 times",
+    "safety_note": "Dithiocarbamate fungicide"
+  },
+  {
+    "name": "Neem Oil",
+    "category": "Organic Insecticide",
+    "suitable_crops": "Vegetables, Fruits",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "10 times",
+    "safety_note": "Safe, organic"
+  },
+  {
+    "name": "Pongamia Oil",
+    "category": "Organic Insecticide",
+    "suitable_crops": "Vegetables",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "5 times",
+    "safety_note": "Traditional botanical pesticide"
+  },
+  {
+    "name": "Vermicompost",
+    "category": "Nutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Organic soil amendment"
+  },
+  {
+    "name": "Azotobacter",
+    "category": "Biofertilizer",
+    "suitable_crops": "Legumes",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Nitrogen-fixing bacteria"
+  },
+  {
+    "name": "Rhizobium",
+    "category": "Biofertilizer",
+    "suitable_crops": "Legumes",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Root nodule inoculant"
+  },
+  {
+    "name": "Humic Acid",
+    "category": "Nutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Soil health amendment"
+  },
+  {
+    "name": "NPK 19-19-19",
+    "category": "Nutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Balanced fertilizer"
+  },
+  {
+    "name": "DAP",
+    "category": "Nutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Phosphorus fertilizer"
+  },
+  {
+    "name": "MOP",
+    "category": "Nutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Potassium fertilizer"
+  },
+  {
+    "name": "Gypsum",
+    "category": "Nutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Calcium soil amendment"
+  },
+  {
+    "name": "Boric Acid",
+    "category": "Micronutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Boron supplement"
+  },
+  {
+    "name": "Zinc Sulfate",
+    "category": "Micronutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Zinc supplement"
+  },
+  {
+    "name": "Copper Sulfate",
+    "category": "Micronutrient",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "N/A",
+    "max_applications": "Multiple",
+    "safety_note": "Copper supplement"
+  },
+  {
+    "name": "Sodium Bicarbonate",
+    "category": "Fungicide",
+    "suitable_crops": "Vegetables",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "10 times",
+    "safety_note": "Baking soda fungicide"
+  },
+  {
+    "name": "Bacillus subtilis",
+    "category": "Biopesticide",
+    "suitable_crops": "Vegetables",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "3 times",
+    "safety_note": "Beneficial bacterium"
+  },
+  {
+    "name": "Potassium Soap",
+    "category": "Organic Insecticide",
+    "suitable_crops": "All crops",
+    "pre_harvest_interval": "0 days",
+    "max_applications": "10 times",
+    "safety_note": "Potassium salts, non-toxic repellent"
+  }
+]

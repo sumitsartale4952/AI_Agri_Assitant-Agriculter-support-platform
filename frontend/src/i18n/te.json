@@ -1,0 +1,230 @@
+{
+  "header": {
+    "logo_alt": "AI కృषि సహాయక",
+    "search_placeholder": "పథకాలు, పంట, మండి శోధించండి...",
+    "language": "భాష",
+    "english": "English",
+    "hindi": "हिंदी",
+    "telugu": "తెలుగు",
+    "notifications": "నోటిఫికేషన్లు",
+    "profile": "ప్రొఫైల్",
+    "logout": "లాగ్‌అవుట్",
+    "my_farms": "నా గంటలు",
+    "settings": "సెట్టింగ్‌లు",
+    "help": "సహాయం"
+  },
+  "snapshot_bar": {
+    "weather": "వాతావరణం",
+    "price_snapshot": "ధర స్నాప్‌షాట్",
+    "soil_upload": "నేల నివేదన",
+    "emergency_alert": "హెచ్చరిక",
+    "upload_pdf_photo": "నేల నివేదనను అప్‌లోడ్ చేయండి (PDF / ఫోటో)",
+    "get_npk_2_mins": "2 నిమిషాలలో NPK పొందండి",
+    "last_updated": "చివరిసారి నవీకరించిన",
+    "view_details": "వివరాలను చూడండి"
+  },
+  "primary_actions": {
+    "diagnose_disease": "వ్యాధిని నిరూపించండి",
+    "diagnose_disease_desc": "ఇమేజ్ అప్‌లోడ్ & AI విశ్లేషణ",
+    "predict_yield": "దిగుబడి సూచన",
+    "predict_yield_desc": "ఫారమ్: పంట, ప్రాంతం, విత్తన తేదీ",
+    "upload_soil": "నేల నివేదనను అప్‌లోడ్ చేయండి",
+    "upload_soil_desc": "OCR - NPK సలహా పొందండి",
+    "check_schemes": "పథకాలను చెక్ చేయండి",
+    "check_schemes_desc": "రాష్ట్రం ద్వారా PMFBY/DBT ను శోధించండి"
+  },
+  "modules": {
+    "crop_disease": "పంట వ్యాధి",
+    "crop_disease_desc": "ఫోటో నుండి వ్యాధిని గుర్తించండి",
+    "soil_health": "నేల ఆరోగ్యం & సారవంతం",
+    "soil_health_desc": "నేల పరీక్ష అప్‌లోడ్ చేయండి; NPK సలహా పొందండి",
+    "irrigation": "నీటపారుదల & వాతావరణం",
+    "irrigation_desc": "నీటపారుదల షెడ్యూల్ & హెచ్చరికలు",
+    "yield_prediction": "దిగుబడి సూచన & మార్కెట్ ధరలు",
+    "yield_prediction_desc": "దిగుబడిని అంచనా వేయండి & మండి రేట్‌లను తనిఖీ చేయండి",
+    "pest_weed": "కీటక & కలుపు నిర్వహణ",
+    "pest_weed_desc": "కీటకాలను గుర్తించండి; సేంద్రీయ & రసాయన నియంత్రణ",
+    "schemes": "ప్రభుత్వ పథకాలు & సబ్సిడీ",
+    "schemes_desc": "పథకాలను కనుగొని దరఖాస్తు చేయండి",
+    "seed_selection": "విత్తన ఎంపిక & పంట ప్రణయనం",
+    "seed_selection_desc": "మీ ప్రాంతానికి ఉత్తమ విత్తన రకాలు",
+    "safety": "కీటనాశకం/సారవంతం భద్రత",
+    "safety_desc": "కోతకు ముందు భద్రతా విరామాలు",
+    "insurance": "బీమా సలహా (PMFBY)",
+    "insurance_desc": "అర్హత & ప్రీమియాలను తనిఖీ చేయండి",
+    "loan": "రుణ & క్రెడిట్ ఆధారం",
+    "loan_desc": "KCC & బ్యాంక్ రుణ ఎంపికలు",
+    "open": "తెరవండి",
+    "quick_action": "త్వరిత చర్య"
+  },
+  "featured": {
+    "latest_advisories": "తాజా ప్రభుత్వ సలహాలు & పథకాలు",
+    "no_advisories": "కూడా సలహాలు అందుబాటులో లేవు",
+    "read_more": "మరింత చదవండి",
+    "market_chart": "మార్కెట్ చార్ట్",
+    "last_7_days": "గత 7 రోజులు",
+    "set_price_alert": "ధర హెచ్చరిక సెట్ చేయండి",
+    "export_report": "నివేదనను ఎగుమతి చేయండి",
+    "share": "భాగస్వామ్యం చేయండి",
+    "data_source": "డేటా మూలం",
+    "updated": "నవీకరించిన"
+  },
+  "advertisement": {
+    "sponsored": "స్పాన్సర్‌చేసిన",
+    "advertisement": "ప్రకటన"
+  },
+  "footer": {
+    "about_heading": "గురించి",
+    "about_text": "AI కృషి సహాయక భారతీయ రైతులకు పంట వ్యాధి గుర్తింపు, నేల ఆరోగ్య పర్యవేక్షణ, దిగుబడి సూచన మరియు ప్రభుత్వ పథకాలకు ప్రాప్యతలో సహాయం చేస్తుంది.",
+    "government_links": "ప్రభుత్వ లింకులు",
+    "agmarknet": "ఆగ్‌మార్కెట్",
+    "enam": "eNAM",
+    "pmfby": "PMFBY",
+    "soil_health_card": "నేల ఆరోగ్య కార్డ్",
+    "icar": "ICAR",
+    "resources": "వనరులు",
+    "faqs": "తరచుగా అడిగిన ప్రశ్నలు",
+    "how_to_photo": "పంటల ఫోటో ఎలా తీయాలి",
+    "privacy": "డేటా & గోపనీయత",
+    "support": "సపోర్టుకు సంపర్కం చేయండి",
+    "contact": "సంపర్కం & సహాయం",
+    "helpline": "హెల్‌లైన్: 1800-123-4567",
+    "email": "ఇమెల్: support@aiagriastant.gov.in",
+    "follow_us": "మమ్మల్ని అనుసరించండి",
+    "copyright": "© 2025 AI కృషి సహాయక. అన్ని హక్కులు రక్షించబడ్డాయి.",
+    "version": "సంస్కరణ 1.0.0",
+    "terms": "సేవ నిబంధనలు",
+    "privacy_policy": "గోపనీయత విధానం"
+  },
+  "search": {
+    "schemes": "పథకాలు",
+    "markets": "మార్కెట్‌లు",
+    "advisories": "సలహాలు",
+    "help": "సహాయం",
+    "no_results": "ఫలితాలు కనుగొనబడలేదు",
+    "search_results": "ఫలితాల శోధన"
+  },
+  "pages": {
+    "crop_disease": {
+      "title": "పంట వ్యాధి గుర్తింపు",
+      "subtitle": "మీ పంటల ఫోటోను అప్‌లోడ్ చేసి AI-ఆధారిత నిరూపణ పొందండి",
+      "upload_label": "పంటల ఫోటోను అప్‌లోడ్ చేయండి",
+      "analyze_btn": "చిత్రాన్ని విశ్లేషించండి",
+      "disease_name": "గుర్తించిన వ్యాధి",
+      "confidence": "విశ్వాస",
+      "treatment": "సిఫారసు చేసిన చికిత్స"
+    },
+    "soil_health": {
+      "title": "నేల ఆరోగ్య విశ్లేషణ",
+      "subtitle": "నేల పరీక్ష నివేదనను అప్‌లోడ్ చేసి సారవంతం సిఫారసులు పొందండి",
+      "npk_values": "NPK విలువలు",
+      "nitrogen": "నత్రజని",
+      "phosphorus": "భాస్వరం",
+      "potassium": "పొటాషియం",
+      "recommendations": "సారవంతం సిఫారసులు"
+    },
+    "irrigation": {
+      "title": "నీటపారుదల నిర్వహణ",
+      "subtitle": "మీ పంట మరియు వాతావరణం ఆధారంగా నీటపారుదల షెడ్యూల్ పొందండి",
+      "crop_type": "పంట రకం",
+      "soil_type": "నేల రకం",
+      "water_requirement": "నీటి అవసరం"
+    },
+    "yield_prediction": {
+      "title": "దిగుబడి సూచన & మార్కెట్ ధరలు",
+      "subtitle": "మీ దిగుబడిని అంచనా వేసి బాజార్ ధరలను తనిఖీ చేయండి",
+      "mandi_prices": "మండి ధరలు",
+      "search_commodity": "వస్తువు శోధించండి",
+      "market": "మార్కెట్",
+      "price": "ధర (₹)"
+    },
+    "safety": {
+      "title": "కీటనాశకం సుരక్ష విరామాలు",
+      "subtitle": "కీటనాశకాన్ని ఉపయోగించే ముందు సురక్షితమైన కోత విరామాలను తనిఖీ చేయండి",
+      "search_pesticide": "కీటనాశకం శోధించండి",
+      "phi": "PHI (రోజులు)",
+      "max_sprays": "గరిష్ట స్ప్రేలు",
+      "safety_note": "సురక్ష గమనిక"
+    },
+    "schemes": {
+      "title": "ప్రభుత్వ పథకాలు",
+      "subtitle": "కృషి సబ్సిడీ పథకాలను కనుగొని దరఖాస్తు చేయండి",
+      "search_schemes": "పథకాలను శోధించండి",
+      "eligible": "మీరు అర్హులు",
+      "requirements": "అవసరాలు"
+    },
+    "insurance": {
+      "title": "బీమా సలహా (PMFBY)",
+      "subtitle": "అర్హత మరియు ప్రీమియం వివరాలను తనిఖీ చేయండి",
+      "check_eligibility": "అర్హతను తనిఖీ చేయండి",
+      "premium": "ప్రీమియం",
+      "coverage": "కవరేజ్"
+    },
+    "loan": {
+      "title": "రుణ & క్రెడిట్ ఆధారం",
+      "subtitle": "KCC మరియు బ్యాంక్ రుణ ఎంపికల్లో సమాచారం పొందండి",
+      "loan_type": "రుణ రకం",
+      "interest_rate": "వడ్డీ రేటు",
+      "eligibility": "అర్హత ప్రమాణాలు"
+    },
+    "seed": {
+      "title": "విత్తన ఎంపిక",
+      "subtitle": "మీ ప్రాంతానికి ఉత్తమ విత్తన రకాలను పొందండి",
+      "crop": "పంట",
+      "variety": "రకం",
+      "expected_yield": "ఆశించిన దిగుబడి"
+    }
+  },
+  "dashboard": {
+    "title": "డ్యాష్‌బోర్డ్",
+    "welcome": "స్వాగతం",
+    "my_activities": "నా కార్యకలాపాలు",
+    "my_schemes": "నా పథకాలు",
+    "my_crops": "నా పంటలు"
+  },
+  "auth": {
+    "login": "లాగిన్",
+    "register": "నమోదు",
+    "email": "ఇమెల్",
+    "password": "పాస్‌వర్డ్",
+    "confirm_password": "పాస్‌వర్డ్ నిర్ధారించండి",
+    "name": "పూర్తి పేరు",
+    "phone": "ఫోన్ నంబర్",
+    "farm_size": "పొలం సైజ్ (హెక్టార్)",
+    "location": "ప్రదేశం",
+    "login_btn": "లాగిన్",
+    "register_btn": "నమోదు",
+    "already_account": "ఇప్పటికే ఖాతా ఉందా?",
+    "no_account": "ఖాతా లేదా?"
+  },
+  "notifications_page": {
+    "title": "అన్ని నోటిఫికేషన్‌లు",
+    "subtitle": "ముఖ్యమైన హెచ్చరికలతో నవీకరించండి",
+    "filter_by": "సేవ ద్వారా ఫిల్టర్ చేయండి"
+  },
+  "common": {
+    "loading": "లోడ్ చేస్తుంది...",
+    "error": "ఒక లోపం సంభవించింది",
+    "try_again": "మళ్లీ ప్రయత్నించండి",
+    "cancel": "రద్దు చేయండి",
+    "submit": "సమర్పించండి",
+    "close": "మూసివేయండి",
+    "save": "సేవ్ చేయండి",
+    "edit": "సవరించండి",
+    "delete": "తొలగించండి",
+    "download": "డౌన్‌లోడ్ చేయండి",
+    "location": "ప్రదేశం",
+    "temperature": "ఉష్ణోగ్రత",
+    "humidity": "ఆర్ద్రత",
+    "rainfall": "వర్షపాతం",
+    "success": "విజయం",
+    "warning": "హెచ్చరిక",
+    "info": "సమాచారం",
+    "yes": "అవును",
+    "no": "లేదు",
+    "back": "వెనుక",
+    "next": "తర్వాత",
+    "home": "హోమ్",
+    "all": "సమస్త"
+  }
+}

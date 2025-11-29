@@ -1,0 +1,40 @@
+{
+  "claim_process_steps": [
+    {
+      "step": 1,
+      "title": "Report Loss Immediately",
+      "description": "Notify crop loss within 72 hours of occurrence.",
+      "details": "Submit evidence such as geo-tagged photos or videos to support your claim."
+    },
+    {
+      "step": 2,
+      "title": "Contact Insurance Company",
+      "description": "Inform your insurance agent or visit the branch office.",
+      "details": "Provide accurate land and crop details relevant to the insured crop."
+    },
+    {
+      "step": 3,
+      "title": "Field Verification",
+      "description": "Joint survey conducted by insurance company and government officials.",
+      "details": "Cooperate with the survey team and provide all necessary farming records or documents."
+    },
+    {
+      "step": 4,
+      "title": "Loss Assessment",
+      "description": "Insurance company evaluates the extent of the crop loss.",
+      "details": "Wait for completion of assessment report that determines the compensation amount."
+    },
+    {
+      "step": 5,
+      "title": "Claim Approval",
+      "description": "Insurance company processes and approves the claim based on the assessment.",
+      "details": "Approved claim is queued for payment processing."
+    },
+    {
+      "step": 6,
+      "title": "DBT Transfer",
+      "description": "Approved claim amount is directly credited to the farmer’s bank account.",
+      "details": "Payment is made through Direct Benefit Transfer (DBT); check your bank account for confirmation."
+    }
+  ]
+}

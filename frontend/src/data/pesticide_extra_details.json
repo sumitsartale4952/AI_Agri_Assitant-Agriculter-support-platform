@@ -1,0 +1,941 @@
+[
+  {
+    "crop": "Wheat",
+    "scientific_name": "Triticum aestivum",
+    "weather_soil": {
+      "climate": "Cool, dry rabi season; day temps 20-25°C ideal",
+      "rainfall": "400-650 mm annual in growing season (irrigated/limited rain areas use irrigation)",
+      "soil_type": "Loam to clay-loam, good drainage; pH 6.5-7.5",
+      "organic_carbon_target": "0.5% - 0.8% (improve with FYM/compost)"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "120:60:40 (N:P:K)",
+      "basal_application": {
+        "description": "Apply full P (Phosphorus) and K and 1/3rd of N at sowing (basal).",
+        "approx_kg_per_ha": {
+          "N": 40,
+          "P2O5_equiv": 60,
+          "K2O_equiv": 40
+        }
+      },
+      "top_dress_schedule": [
+        {
+          "timing": "At 21-28 days after sowing (tillering)",
+          "apply_kg_N_per_ha": 40,
+          "method": "Broadcast + light incorporation or banding"
+        },
+        {
+          "timing": "At 45-55 days (stem elongation/ear initiation)",
+          "apply_kg_N_per_ha": 40,
+          "method": "Split/top-dress; irrigate after application if possible"
+        }
+      ],
+      "note": "Adjust N by soil test; reduce if legacy soil N or farmyard manure used."
+    },
+    "dosage_application_notes": {
+      "seed_treatment": "Treat seeds with recommended fungicide/biocontrol (follow product label) before sowing.",
+      "method": "Prefer line sowing or row sowing for efficient fertilizer placement where possible.",
+      "irrigation_link": "Irrigate after each top-dress if feasible for better N uptake."
+    },
+    "common_pests_diseases_and_control": {
+      "pests": ["Aphids", "Armyworm", "Shoot fly"],
+      "diseases": ["Rusts (leaf/stripe), Smut, Blight"],
+      "recommended_tactics": "Integrated Pest Management (monitoring + biopesticides + approved chemical sprays as per label)."
+    },
+    "representative_inputs_and_purchase_links": {
+      "urea_N_source": {
+        "product": "Gromor Urea (example listing)",
+        "retailer": "BigHaat",
+        "url": "https://www.bighaat.com/products/gromor-urea",
+        "notes": "Urea is commonly used for N; follow state subsidy / procurement rules."
+      },
+      "dap_P_source": {
+        "product": "MCF DAP (example listing)",
+        "retailer": "BigHaat",
+        "url": "https://www.bighaat.com/products/mcf-dap"
+      },
+      "mop_K_source": {
+        "product": "Utkarsh MKP / MOP (potash source examples)",
+        "retailer": "BigHaat",
+        "url": "https://www.bighaat.com/products/utkarsh-mkp-00-52-34-mono-potassium-phosphate"
+      },
+      "bio_pesticide_example": {
+        "product": "Econeem (Azadirachtin 3000 ppm) — representative bio-pesticide",
+        "retailer": "BigHaat",
+        "url": "https://www.bighaat.com/products/econeem-azadirachtin-3000-ppm-0-3-ec-biopesticide",
+        "label_note": "Follow label for spray concentration; commonly used as 0.03-0.05% w/v depending on product."
+      }
+    },
+    "image_source": {
+      "example_image_site": "Unsplash / public free photos",
+      "reference": "wheat crop images (Unsplash / BigHaat illustrations)",
+      "image_search_refs": [
+        "Unsplash: wheat crop images",
+        "BigHaat: wheat crop guide"
+      ],
+      "image_links_used": [
+        "https://unsplash.com/s/photos/wheat-crop",
+        "https://www.bighaat.com/kisan-vedika/blogs/field-preparations-for-wheat-crop"
+      ]
+    },
+    "sources": [
+      "BigHaat product pages and crop guides (fertilizer/product labels): https://www.bighaat.com/",
+      "General agronomy practice (extension recommendations)"
+    ]
+  },
+
+  {
+    "crop": "Rice (Paddy)",
+    "scientific_name": "Oryza sativa",
+    "weather_soil": {
+      "climate": "Warm, humid; optimal temps 25-35°C during growth",
+      "rainfall": "High water requirement — 1000+ mm where rainfed; irrigated lowland needs continuous water",
+      "soil_type": "Clayey, fine-textured, water-retentive soils; pH 5.5-7.0",
+      "organic_carbon_target": "0.75% - 1.2%"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "100:50:50 (N:P:K) — approximate, adjust by soil test",
+      "basal": {
+        "description": "Apply full P and K at/near transplanting; 1/3rd N basal",
+        "kg_per_ha": {"N": 33, "P2O5": 50, "K2O": 50}
+      },
+      "top_dress_schedule": [
+        {"timing": "At active tillering", "apply_kg_N_per_ha": 33},
+        {"timing": "At panicle initiation", "apply_kg_N_per_ha": 34}
+      ],
+      "note": "Use split N to reduce losses; consider zinc application per deficiency."
+    },
+    "dosage_application_notes": {
+      "method": "For transplanted rice, apply basal fertilizers in puddled soil before transplanting; for SRI/direct-seeded, adapt placement and timings.",
+      "seedling_health": "Use recommended seedling age and spacing to reduce pest pressure."
+    },
+    "common_pests_diseases_and_control": {
+      "pests": ["Stem borer", "Leaf folder", "Brown Planthopper"],
+      "diseases": ["Bacterial leaf blight (BLB), Blast, Sheath blight"],
+      "recommended_tactics": "Integrated measures + resistant varieties + biopesticide options."
+    },
+    "representative_inputs_and_purchase_links": {
+      "urea_N_source": {"url":"https://www.bighaat.com/products/gromor-urea"},
+      "dap_P_source": {"url":"https://www.bighaat.com/products/mcf-dap"},
+      "potash_source": {"url":"https://www.bighaat.com/products/utkarsh-mkp-00-52-34-mono-potassium-phosphate"},
+      "bio_pesticide_example": {"url":"https://www.bighaat.com/products/econeem-azadirachtin-3000-ppm-0-3-ec-biopesticide"}
+    },
+    "image_source": {
+      "example_image_site": "Unsplash / Pixabay",
+      "image_links_used": [
+        "https://unsplash.com/s/photos/rice-paddy",
+        "https://www.bighaat.com/"
+      ]
+    },
+    "sources": [
+      "BigHaat product pages and crop guides: https://www.bighaat.com/",
+      "Standard agronomy recommendations (extension literature)"
+    ]
+  },
+
+  {
+    "crop": "Maize",
+    "scientific_name": "Zea mays",
+    "weather_soil": {
+      "climate": "Warm, 20-30°C; sensitive to water stress during flowering",
+      "rainfall": "500-800 mm during season recommended (supplemental irrigation increases yields)",
+      "soil_type": "Deep, well-drained loamy soils; pH 5.5-7.5",
+      "organic_carbon_target": "0.5% - 1.0%"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "150:75:40 (N:P:K) typical high-yield target",
+      "basal": {"N": 50, "P2O5": 75, "K2O": 40},
+      "top_dress": [
+        {"timing": "Knee-high stage (~30-35 DAS)", "apply_kg_N_per_ha": 50},
+        {"timing": "Pre-flowering", "apply_kg_N_per_ha": 50}
+      ],
+      "note": "Split N reduces leaching; fertigation where available gives better results."
+    },
+    "dosage_application_notes": {
+      "placement": "Band placement near seed for starter P; avoid direct seed contact with high-rate fertilizer.",
+      "fertigation": "If using drip/fertigation, use water-soluble formulations at recommended concentrations."
+    },
+    "common_pests_diseases_and_control": {
+      "pests": ["Fall Armyworm", "Stem borer"],
+      "diseases": ["Downy mildew", "Leaf blight"],
+      "tactics": "Monitoring, pheromone traps for borers, biological controls and approved insecticides if threshold exceeded"
+    },
+    "representative_inputs_and_purchase_links": {
+      "urea": {"url":"https://www.bighaat.com/products/gromor-urea"},
+      "dap": {"url":"https://www.bighaat.com/products/mcf-dap"},
+      "mop_or_mkp": {"url":"https://www.bighaat.com/products/utkarsh-mkp-00-52-34-mono-potassium-phosphate"},
+      "biopesticide": {"url":"https://www.bighaat.com/products/maxinemor-bio-pesticide-azadirachtin-1500-ppm"}
+    },
+    "image_source": {
+      "example_image_site": "Unsplash / BigHaat crop pages",
+      "image_links_used": [
+        "https://unsplash.com/s/photos/maize-field",
+        "https://www.bighaat.com/"
+      ]
+    },
+    "sources": [
+      "BigHaat product pages and crop guides: https://www.bighaat.com/",
+      "Maize agronomy best practices (extension sources)"
+    ]
+  },
+
+  {
+    "crop": "Sugarcane",
+    "scientific_name": "Saccharum officinarum",
+    "weather_soil": {
+      "climate": "Tropical to subtropical, 20-35°C; needs long warm season",
+      "rainfall": "1000-1500 mm (supplemental irrigation common in ratoon systems)",
+      "soil_type": "Deep, fertile loam to clay loam, good drainage",
+      "organic_carbon_target": "1.0% - 1.5%"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "250:115:115 (N:P:K) typical for high production",
+      "basal_and_splits": [
+        {"timing": "Basal at planting (gap filling)", "apply_kg_N_per_ha": 50, "P2O5": 50, "K2O": 50},
+        {"timing": "45 days", "apply_kg_N_per_ha": 100},
+        {"timing": "90 days", "apply_kg_N_per_ha": 100}
+      ],
+      "note": "Split N to match crop uptake; maintain potassium for sucrose accumulation."
+    },
+    "dosage_application_notes": {
+      "method": "Band placement at planting and side-dressing later; incorporate organic matter for better ratoon performance.",
+      "fertigation": "Recommended where possible to improve nutrient use efficiency."
+    },
+    "common_pests_diseases_and_control": {
+      "pests": ["Early shoot borer", "Pyrilla"],
+      "diseases": ["Red rot", "Smut"],
+      "tactics": "Varietal resistance, sanitation, bio-controls + label-approved insecticides"
+    },
+    "representative_inputs_and_purchase_links": {
+      "urea": {"url":"https://www.bighaat.com/products/gromor-urea"},
+      "dap": {"url":"https://www.bighaat.com/products/mcf-dap"},
+      "potash": {"url":"https://www.bighaat.com/products/utkarsh-mkp-00-52-34-mono-potassium-phosphate"},
+      "bio_pesticide": {"url":"https://www.bighaat.com/products/econeem-azadirachtin-3000-ppm-0-3-ec-biopesticide"}
+    },
+    "image_source": {
+      "example_image_site": "Unsplash / BigHaat crop pages",
+      "image_links_used": [
+        "https://unsplash.com/s/photos/sugarcane-field",
+        "https://www.bighaat.com/"
+      ]
+    },
+    "sources": [
+      "BigHaat product pages and crop guides: https://www.bighaat.com/",
+      "Sugarcane agronomy extension sources"
+    ]
+  },
+
+  {
+    "crop": "Cotton",
+    "scientific_name": "Gossypium hirsutum",
+    "weather_soil": {
+      "climate": "Warm and relatively dry; ideal 25-35°C during growth",
+      "rainfall": "500-800 mm (well-distributed), avoid waterlogging",
+      "soil_type": "Deep black cotton soils or loams; pH 6.0-8.0",
+      "organic_carbon_target": "0.5% - 1.0%"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "90:45:45 (N:P:K) typical",
+      "basal_and_splits": [
+        {"timing": "Basal at sowing/transplant", "apply_kg_per_ha": {"N": 30, "P2O5": 45, "K2O": 45}},
+        {"timing": "At squaring/flower initiation", "apply_kg_N_per_ha": 30},
+        {"timing": "During peak boll formation", "apply_kg_N_per_ha": 30}
+      ],
+      "note": "K is important for boll filling—maintain adequate potash."
+    },
+    "dosage_application_notes": {
+      "method": "Place P near seed; avoid seed burn from high fertilizer contact. Use split N.",
+      "irrigation": "Use drip or scheduled irrigation to match critical stages (squaring & boll formation)."
+    },
+    "common_pests_diseases_and_control": {
+      "pests": ["Pink bollworm", "Whitefly", "Bollworms"],
+      "diseases": ["Verticillium wilt", "Bacterial blight"],
+      "tactics": "Bt hybrids (where allowed), pheromone traps, IPM + biopesticides"
+    },
+    "representative_inputs_and_purchase_links": {
+      "urea": {"url":"https://www.bighaat.com/products/gromor-urea"},
+      "dap": {"url":"https://www.bighaat.com/products/mcf-dap"},
+      "mop_or_mkp": {"url":"https://www.bighaat.com/products/utkarsh-mkp-00-52-34-mono-potassium-phosphate"},
+      "bio_pesticide": {"url":"https://www.bighaat.com/products/maxinemor-bio-pesticide-azadirachtin-1500-ppm"}
+    },
+    "image_source": {
+      "example_image_site": "Unsplash / BigHaat crop pages",
+      "image_links_used": [
+        "https://unsplash.com/s/photos/cotton-field",
+        "https://www.bighaat.com/"
+      ]
+    },
+    "sources": [
+      "BigHaat product pages and crop guides: https://www.bighaat.com/",
+      "Cotton agronomy extension material"
+    ]
+  },
+  {
+    "product_name": "Zinc Sulphate Heptahydrate (21% Zn)",
+    "category": "Micronutrient",
+    "description": "Zinc fertilizer used to correct zinc deficiency in cereals, pulses, horticulture crops.",
+    "dosage_and_application": {
+      "basal_application": "10-25 kg/acre mixed with soil during field preparation.",
+      "foliar_spray": "0.5% solution (5g per liter of water). Spray twice at 20-25 day interval.",
+      "notes": "Avoid mixing with alkaline pesticides or lime."
+    },
+    "weather_and_soil": {
+      "suitable_soil": "Sandy loam, red soils, alkaline soils, soils with low organic matter.",
+      "soil_pH": "6.0-7.5 (best). In high pH > 8 soils, zinc deficiency is common.",
+      "climate": "Warm temperature 20-35°C; deficiency increases in dry seasons."
+    },
+    "image_urls": [
+      "https://images.agrihub.com/zinc-sulphate.jpg"
+    ],
+    "purchase_links": [
+      "https://www.indiamart.com/search.mp?ss=zinc+sulphate+21%"
+    ]
+  },
+  {
+    "product_name": "Urea 46% N",
+    "category": "Fertilizer - Nitrogen",
+    "description": "High nitrogen fertilizer for promoting vegetative growth.",
+    "dosage_and_application": {
+      "rice": "40-60 kg/acre split into 2-3 doses (basal + tillering + panicle initiation).",
+      "wheat": "35-45 kg/acre split into 2 doses (basal + CRI stage).",
+      "vegetables": "20-30 kg/acre every 20-25 days.",
+      "notes": "Apply after irrigation to reduce volatilization loss."
+    },
+    "weather_and_soil": {
+      "suitable_soil": "Alluvial, loamy soils. Avoid in saline soils.",
+      "soil_pH": "6.0-7.5",
+      "climate": "Works best in moist soil; avoid surface application in hot dry winds."
+    },
+    "image_urls": [
+      "https://images.agrihub.com/urea-46.jpg"
+    ],
+    "purchase_links": [
+      "https://www.indiamart.com/search.mp?ss=urea+fertilizer"
+    ]
+  },
+  {
+    "crop": "Sugarcane",
+    "scientific_name": "Saccharum officinarum",
+    "weather_soil": {
+      "climate": "Tropical-subtropical; ideal 20-32°C",
+      "rainfall_mm": "1200-1500",
+      "soil_type": "Deep loam, clay-loam; fertile",
+      "pH_range": "6.5-7.5",
+      "organic_carbon_target_pct": "1.0-1.5"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "250:115:115",
+      "basal": {"N": 60, "P2O5": 115, "K2O": 115},
+      "top_dress_schedule": [
+        {"timing": "45 DAP", "N": 100},
+        {"timing": "90 DAP", "N": 90}
+      ]
+    },
+    "dosage_application_notes": "Use sett treatment; apply N in 3 splits; maintain moisture during tillering.",
+    "common_pests": ["Early shoot borer", "Top borer", "White grub"],
+    "common_diseases": ["Red rot", "Smut", "Wilt"],
+    "recommended_tactics": "Trash mulching, resistant varieties, chlorpyrifos for grubs.",
+    "representative_inputs_and_purchase_links": {
+      "urea": "https://www.amazon.in/s?k=urea+fertilizer",
+      "ssp": "https://www.indiamart.com/search.mp?ss=ssp+fertilizer",
+      "mop": "https://www.amazon.in/s?k=potash+fertilizer",
+      "bio_pesticide": "https://www.amazon.in/s?k=neem+oil+for+plants"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/45/Sugarcane_field_in_Tamil_Nadu.jpg"
+    ],
+    "sources": ["ICAR Sugarcane Handbook"]
+  },
+
+  {
+    "crop": "Cotton",
+    "scientific_name": "Gossypium hirsutum",
+    "weather_soil": {
+      "climate": "Warm; ideal 20-35°C",
+      "rainfall_mm": "600-900",
+      "soil_type": "Black cotton soil (Vertisols)",
+      "pH_range": "6.0-7.5",
+      "organic_carbon_target_pct": "0.7-1.2"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "120:60:60",
+      "basal": {"N": 40, "P2O5": 60, "K2O": 30},
+      "top_dress_schedule": [
+        {"timing": "45 DAS", "N": 40, "K2O": 15},
+        {"timing": "75 DAS", "N": 40, "K2O": 15}
+      ]
+    },
+    "dosage_application_notes": "Apply 2-3 foliar sprays of MgSO4; avoid excessive N.",
+    "common_pests": ["Pink bollworm", "Whitefly", "Aphid"],
+    "common_diseases": ["Leaf curl", "Wilt", "Anthracnose"],
+    "recommended_tactics": "PBW pheromone traps, neem spray, resistant seeds.",
+    "representative_inputs_and_purchase_links": {
+      "urea": "https://www.amazon.in/s?k=urea+fertilizer",
+      "dap": "https://www.indiamart.com/search.mp?ss=dap+fertilizer",
+      "mop": "https://www.amazon.in/s?k=potash+fertilizer",
+      "bio_pesticide": "https://www.amazon.in/s?k=neem+based+pesticide"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/17/Cotton_field_karnataka.jpg"
+    ],
+    "sources": ["CICR Nagpur"]
+  },
+
+  {
+    "crop": "Soybean",
+    "scientific_name": "Glycine max",
+    "weather_soil": {
+      "climate": "Warm humid; ideal 25-30°C",
+      "rainfall_mm": "700-900",
+      "soil_type": "Black cotton soils",
+      "pH_range": "6.0-7.5",
+      "organic_carbon_target_pct": "0.7-1.2"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "25:50:40",
+      "basal": {"N": 25, "P2O5": 50, "K2O": 40},
+      "top_dress_schedule": []
+    },
+    "dosage_application_notes": "Rhizobium seed inoculation mandatory; avoid standing water.",
+    "common_pests": ["Girdle beetle", "Stem fly", "Whitefly"],
+    "common_diseases": ["Rust", "Collar rot", "Anthracnose"],
+    "recommended_tactics": "Use yellow sticky traps, fungicide seed treatment.",
+    "representative_inputs_and_purchase_links": {
+      "ssp": "https://www.indiamart.com/search.mp?ss=ssp+fertilizer",
+      "mop": "https://www.amazon.in/s?k=potash",
+      "biofungicide": "https://www.amazon.in/s?k=trichoderma"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8c/Soybean_field_India.jpg"
+    ],
+    "sources": ["ICAR Soybean Research Institute"]
+  },
+
+  {
+    "crop": "Groundnut",
+    "scientific_name": "Arachis hypogaea",
+    "weather_soil": {
+      "climate": "Warm; 25-30°C",
+      "rainfall_mm": "500-700",
+      "soil_type": "Sandy-loam, red soils",
+      "pH_range": "6.0-7.5",
+      "organic_carbon_target_pct": "0.5-1.0"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "20:40:40",
+      "basal": {"N": 20, "P2O5": 40, "K2O": 40},
+      "top_dress_schedule": []
+    },
+    "dosage_application_notes": "Apply gypsum 200-300 kg/ha at flowering.",
+    "common_pests": ["Leaf miner", "White grub"],
+    "common_diseases": ["Tikka leaf spot", "Rust"],
+    "recommended_tactics": "Seed treatment, gypsum, IPM-based sprays.",
+    "representative_inputs_and_purchase_links": {
+      "ssp": "https://www.indiamart.com/search.mp?ss=ssp+fertilizer",
+      "gypsum": "https://www.amazon.in/s?k=agricultural+gypsum",
+      "bio_pesticide": "https://www.amazon.in/s?k=neem+oil"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/89/Groundnut_crop.jpg"
+    ],
+    "sources": ["ICAR Groundnut Research"]
+  },
+
+  {
+    "crop": "Chickpea",
+    "scientific_name": "Cicer arietinum",
+    "weather_soil": {
+      "climate": "Cool-dry rabi; 20-25°C",
+      "rainfall_mm": "400-600",
+      "soil_type": "Sandy-loam to clay-loam",
+      "pH_range": "6.5-7.5",
+      "organic_carbon_target_pct": "0.6-1.0"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "20:40:0",
+      "basal": {"N": 20, "P2O5": 40, "K2O": 0},
+      "top_dress_schedule": []
+    },
+    "dosage_application_notes": "Rhizobium + PSB seed treatment improves fixation.",
+    "common_pests": ["Pod borer"],
+    "common_diseases": ["Wilt", "Ascochyta blight"],
+    "recommended_tactics": "Helicoverpa traps, neem extracts.",
+    "representative_inputs_and_purchase_links": {
+      "dap": "https://www.indiamart.com/search.mp?ss=dap+fertilizer",
+      "psb": "https://www.amazon.in/s?k=psb+bacteria",
+      "bio_pesticide": "https://www.amazon.in/s?k=neem+pesticide"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/36/Chickpea_field_India.jpg"
+    ],
+    "sources": ["IIPR Kanpur"]
+  },
+
+  {
+    "crop": "Mustard",
+    "scientific_name": "Brassica juncea",
+    "weather_soil": {
+      "climate": "Cool rabi; 15-25°C",
+      "rainfall_mm": "350-500",
+      "soil_type": "Loam to clay-loam",
+      "pH_range": "6.5-7.5",
+      "organic_carbon_target_pct": "0.5-0.8"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "80:40:40",
+      "basal": {"N": 40, "P2O5": 40, "K2O": 40},
+      "top_dress_schedule": [
+        {"timing": "30 DAS", "N": 40}
+      ]
+    },
+    "dosage_application_notes": "Avoid waterlogging; sulfur improves oil content.",
+    "common_pests": ["Aphids"],
+    "common_diseases": ["Alternaria blight", "White rust"],
+    "recommended_tactics": "Early sowing, neem sprays, sulfur application.",
+    "representative_inputs_and_purchase_links": {
+      "urea": "https://www.amazon.in/s?k=urea+fertilizer",
+      "ssp": "https://www.indiamart.com/search.mp?ss=ssp+fertilizer",
+      "sulfur": "https://www.amazon.in/s?k=sulphur+90"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/60/Mustard_fields_Punjab.jpg"
+    ],
+    "sources": ["ICAR-DRMR"]
+  },
+
+  {
+    "crop": "Tomato",
+    "scientific_name": "Solanum lycopersicum",
+    "weather_soil": {
+      "climate": "Warm; 20-30°C",
+      "rainfall_mm": "600-800",
+      "soil_type": "Sandy-loam, loam; well drained",
+      "pH_range": "6.0-7.0",
+      "organic_carbon_target_pct": "0.8-1.2"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "150:100:100",
+      "basal": {"N": 50, "P2O5": 100, "K2O": 50},
+      "top_dress_schedule": [
+        {"timing": "30 DAT", "N": 50, "K2O": 25},
+        {"timing": "45 DAT", "N": 50, "K2O": 25}
+      ]
+    },
+    "dosage_application_notes": "Use mulch; calcium sprays reduce blossom end rot.",
+    "common_pests": ["Fruit borer", "Whitefly", "Thrips"],
+    "common_diseases": ["Early blight", "Late blight", "Virus diseases"],
+    "recommended_tactics": "Sticky traps, netting, pheromone traps.",
+    "representative_inputs_and_purchase_links": {
+      "npk_water_soluble": "https://www.amazon.in/s?k=water+soluble+npk",
+      "calcium_nitrate": "https://www.amazon.in/s?k=calcium+nitrate",
+      "bio_pesticide": "https://www.amazon.in/s?k=neem+oil"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5b/Tomato_field_India.jpg"
+    ],
+    "sources": ["IIHR Bengaluru"]
+  },
+
+  {
+    "crop": "Onion",
+    "scientific_name": "Allium cepa",
+    "weather_soil": {
+      "climate": "Cool-dry; 20-25°C",
+      "rainfall_mm": "600-750",
+      "soil_type": "Sandy-loam",
+      "pH_range": "6.0-7.0",
+      "organic_carbon_target_pct": "0.8-1.0"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "100:50:50",
+      "basal": {"N": 50, "P2O5": 50, "K2O": 25},
+      "top_dress_schedule": [
+        {"timing": "30 DAT", "N": 25, "K2O": 15},
+        {"timing": "45 DAT", "N": 25, "K2O": 10}
+      ]
+    },
+    "dosage_application_notes": "Avoid waterlogging; sulfur improves pungency.",
+    "common_pests": ["Thrips"],
+    "common_diseases": ["Purple blotch", "Stemphylium blight"],
+    "recommended_tactics": "Sticky traps, mulching, fungicide rotation.",
+    "representative_inputs_and_purchase_links": {
+      "dap": "https://www.indiamart.com/search.mp?ss=dap",
+      "mop": "https://www.amazon.in/s?k=potash+fertilizer",
+      "sulfur": "https://www.amazon.in/s?k=sulfur+fertilizer"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/74/Onion_field_Maharashtra.jpg"
+    ],
+    "sources": ["ICAR-DOGR"]
+  },
+
+  {
+    "crop": "Potato",
+    "scientific_name": "Solanum tuberosum",
+    "weather_soil": {
+      "climate": "Cool; 15-20°C",
+      "rainfall_mm": "500-700",
+      "soil_type": "Sandy-loam",
+      "pH_range": "5.5-6.5",
+      "organic_carbon_target_pct": "0.8-1.2"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "150:80:100",
+      "basal": {"N": 50, "P2O5": 80, "K2O": 50},
+      "top_dress_schedule": [
+        {"timing": "30 DAP", "N": 50, "K2O": 25},
+        {"timing": "45 DAP", "N": 50, "K2O": 25}
+      ]
+    },
+    "dosage_application_notes": "High K improves tuber size; maintain uniform moisture.",
+    "common_pests": ["Cutworm", "Aphids"],
+    "common_diseases": ["Late blight", "Scab"],
+    "recommended_tactics": "Ridging, drenching, blight prevention schedule.",
+    "representative_inputs_and_purchase_links": {
+      "urea": "https://www.amazon.in/s?k=urea+fertilizer",
+      "mop": "https://www.amazon.in/s?k=potash+fertilizer",
+      "fungicide": "https://www.amazon.in/s?k=fungicide+for+plants"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8d/Potato_field_India.jpg"
+    ],
+    "sources": ["CIP/ICAR"]
+  },
+  {
+    "crop": "Sorghum (Jowar)",
+    "scientific_name": "Sorghum bicolor",
+    "weather_soil": {
+      "climate": "Warm; 25-32°C",
+      "rainfall_mm": "400-600",
+      "soil_type": "Sandy-loam to black soils",
+      "pH_range": "6.0-7.5",
+      "organic_carbon_target_pct": "0.5-0.8"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "80:40:40",
+      "basal": {"N": 40, "P2O5": 40, "K2O": 40},
+      "top_dress_schedule": [
+        {"timing": "30 DAS", "N": 40}
+      ]
+    },
+    "dosage_application_notes": "Thin seedlings at 10-12 days; avoid waterlogging.",
+    "common_pests": ["Stem borer", "Shoot fly"],
+    "common_diseases": ["Downy mildew", "Anthracnose"],
+    "recommended_tactics": "Timely sowing, seed treatment, pheromone traps.",
+    "representative_inputs_and_purchase_links": {
+      "urea": "https://www.amazon.in/s?k=urea+fertilizer",
+      "dap": "https://www.indiamart.com/search.mp?ss=dap+fertilizer",
+      "mop": "https://www.amazon.in/s?k=potash+fertilizer"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b0/Sorghum_field_India.jpg"
+    ],
+    "sources": ["ICAR - Sorghum Research Institute"]
+  },
+
+  {
+    "crop": "Pearl Millet (Bajra)",
+    "scientific_name": "Pennisetum glaucum",
+    "weather_soil": {
+      "climate": "Hot dry; 28-34°C",
+      "rainfall_mm": "250-500",
+      "soil_type": "Sandy-loam, drought prone soils",
+      "pH_range": "6.0-7.5",
+      "organic_carbon_target_pct": "0.4-0.7"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "60:30:30",
+      "basal": {"N": 30, "P2O5": 30, "K2O": 30},
+      "top_dress_schedule": [
+        {"timing": "25 DAS", "N": 30}
+      ]
+    },
+    "dosage_application_notes": "Seed treatment improves drought tolerance.",
+    "common_pests": ["Shoot fly", "Stem borer"],
+    "common_diseases": ["Downy mildew", "Rust"],
+    "recommended_tactics": "Resistant hybrids, deep ploughing.",
+    "representative_inputs_and_purchase_links": {
+      "urea": "https://www.amazon.in/s?k=urea",
+      "dap": "https://www.indiamart.com/search.mp?ss=dap",
+      "bio_pesticide": "https://www.amazon.in/s?k=neem+oil"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bajra_field_Rajasthan.jpg"
+    ],
+    "sources": ["ICAR - AICPMIP"]
+  },
+
+  {
+    "crop": "Barley",
+    "scientific_name": "Hordeum vulgare",
+    "weather_soil": {
+      "climate": "Cool rabi; 15-25°C",
+      "rainfall_mm": "350-500",
+      "soil_type": "Loam to sandy-loam",
+      "pH_range": "6.0-7.0",
+      "organic_carbon_target_pct": "0.5-0.8"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "60:30:20",
+      "basal": {"N": 30, "P2O5": 30, "K2O": 20},
+      "top_dress_schedule": [
+        {"timing": "25 DAS", "N": 30}
+      ]
+    },
+    "dosage_application_notes": "Requires less irrigation than wheat.",
+    "common_pests": ["Aphids"],
+    "common_diseases": ["Leaf blight", "Rust"],
+    "recommended_tactics": "Fungicidal seed treatment and timely sowing.",
+    "representative_inputs_and_purchase_links": {
+      "urea": "https://www.amazon.in/s?k=urea+fertilizer",
+      "ssp": "https://www.indiamart.com/search.mp?ss=ssp"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/87/Barley_field.jpg"
+    ],
+    "sources": ["ICAR - Barley Research"]
+  },
+
+  {
+    "crop": "Pigeon Pea (Arhar)",
+    "scientific_name": "Cajanus cajan",
+    "weather_soil": {
+      "climate": "Warm humid; 25-30°C",
+      "rainfall_mm": "600-1000",
+      "soil_type": "Well-drained loam",
+      "pH_range": "6.0-7.5",
+      "organic_carbon_target_pct": "0.6-1.0"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "25:50:0",
+      "basal": {"N": 25, "P2O5": 50, "K2O": 0},
+      "top_dress_schedule": []
+    },
+    "dosage_application_notes": "Rhizobium + PSB inoculation helps N fixation.",
+    "common_pests": ["Pod borer"],
+    "common_diseases": ["Wilt", "Sterility mosaic"],
+    "recommended_tactics": "Light traps, neem sprays.",
+    "representative_inputs_and_purchase_links": {
+      "dap": "https://www.indiamart.com/search.mp?ss=dap",
+      "psb": "https://www.amazon.in/s?k=psb+biofertilizer"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/48/Arhar_field.jpg"
+    ],
+    "sources": ["ICRISAT Hyderabad"]
+  },
+
+  {
+    "crop": "Green Gram (Moong)",
+    "scientific_name": "Vigna radiata",
+    "weather_soil": {
+      "climate": "Warm; 28-32°C",
+      "rainfall_mm": "500-700",
+      "soil_type": "Loam soils",
+      "pH_range": "6.2-7.2",
+      "organic_carbon_target_pct": "0.5-0.8"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "20:40:0",
+      "basal": {"N": 20, "P2O5": 40, "K2O": 0},
+      "top_dress_schedule": []
+    },
+    "dosage_application_notes": "Light irrigation at flowering improves yield.",
+    "common_pests": ["Whitefly", "Aphids"],
+    "common_diseases": ["Yellow mosaic virus"],
+    "recommended_tactics": "YMV-resistant varieties, yellow sticky traps.",
+    "representative_inputs_and_purchase_links": {
+      "bio_pesticide": "https://www.amazon.in/s?k=neem+oil+for+plants",
+      "dap": "https://www.indiamart.com/search.mp?ss=dap"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ed/Moong_field.jpg"
+    ],
+    "sources": ["ICAR - Pulses Research"]
+  },
+
+  {
+    "crop": "Black Gram (Urad)",
+    "scientific_name": "Vigna mungo",
+    "weather_soil": {
+      "climate": "Warm; 25-30°C",
+      "rainfall_mm": "600-800",
+      "soil_type": "Loam to clay-loam",
+      "pH_range": "6.0-7.5",
+      "organic_carbon_target_pct": "0.6-1.0"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "20:40:0",
+      "basal": {"N": 20, "P2O5": 40, "K2O": 0},
+      "top_dress_schedule": []
+    },
+    "dosage_application_notes": "Avoid heavy rainfall at flowering stage.",
+    "common_pests": ["Whitefly", "Thrips"],
+    "common_diseases": ["YMV"],
+    "recommended_tactics": "Neem oil, resistant varieties.",
+    "representative_inputs_and_purchase_links": {
+      "psb": "https://www.amazon.in/s?k=psb+bacteria",
+      "bio_pesticide": "https://www.amazon.in/s?k=neem+oil"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7f/Urad_crop_field.jpg"
+    ],
+    "sources": ["ICAR - Pulse Handbook"]
+  },
+
+  {
+    "crop": "Lentil (Masoor)",
+    "scientific_name": "Lens culinaris",
+    "weather_soil": {
+      "climate": "Cool rabi; 10-25°C",
+      "rainfall_mm": "300-500",
+      "soil_type": "Sandy-loam",
+      "pH_range": "6.5-7.0",
+      "organic_carbon_target_pct": "0.5-0.8"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "20:40:0",
+      "basal": {"N": 20, "P2O5": 40, "K2O": 0},
+      "top_dress_schedule": []
+    },
+    "dosage_application_notes": "Low fertilizer crop; mostly rainfed.",
+    "common_pests": ["Aphids"],
+    "common_diseases": ["Rust"],
+    "recommended_tactics": "Seed treatment & neem spray.",
+    "representative_inputs_and_purchase_links": {
+      "dap": "https://www.indiamart.com/search.mp?ss=dap"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lentil_field.jpg"
+    ],
+    "sources": ["ICAR - Lentil Field Manual"]
+  },
+
+  {
+    "crop": "Mango",
+    "scientific_name": "Mangifera indica",
+    "weather_soil": {
+      "climate": "Tropical; 24-30°C",
+      "rainfall_mm": "750-2500",
+      "soil_type": "Deep loam, alluvial",
+      "pH_range": "5.5-7.5",
+      "organic_carbon_target_pct": "1.0-1.5"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "1000:500:500 (per tree lifetime spread)",
+      "basal": {"N": 200, "P2O5": 150, "K2O": 150},
+      "top_dress_schedule": [
+        {"timing": "Flowering", "N": 200, "K2O": 150},
+        {"timing": "Fruit set", "N": 200, "K2O": 100}
+      ]
+    },
+    "dosage_application_notes": "Apply well-decomposed FYM; use micronutrients.",
+    "common_pests": ["Fruit fly", "Mango hopper"],
+    "common_diseases": ["Powdery mildew", "Anthracnose"],
+    "recommended_tactics": "Sticky traps, pruning, Cu fungicide.",
+    "representative_inputs_and_purchase_links": {
+      "organic_fertilizer": "https://www.amazon.in/s?k=organic+fertilizer",
+      "pheromone_trap": "https://www.amazon.in/s?k=fruit+fly+trap"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/15/Mango_orchard_India.jpg"
+    ],
+    "sources": ["ICAR CISH Lucknow"]
+  },
+
+  {
+    "crop": "Banana",
+    "scientific_name": "Musa acuminata",
+    "weather_soil": {
+      "climate": "Humid; 26-30°C",
+      "rainfall_mm": "1500-2500",
+      "soil_type": "Fertile loam; well drained",
+      "pH_range": "6.0-7.5",
+      "organic_carbon_target_pct": "1.0-1.5"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "200:60:300",
+      "basal": {"N": 40, "P2O5": 60, "K2O": 40},
+      "top_dress_schedule": [
+        {"timing": "30 DAP", "N": 50, "K2O": 80},
+        {"timing": "60 DAP", "N": 50, "K2O": 80},
+        {"timing": "90 DAP", "N": 60, "K2O": 100}
+      ]
+    },
+    "dosage_application_notes": "High K demanded; mulching reduces water loss.",
+    "common_pests": ["Rhizome weevil", "Nematodes"],
+    "common_diseases": ["Panama wilt", "Sigatoka"],
+    "recommended_tactics": "Tissue culture, drip fertigation.",
+    "representative_inputs_and_purchase_links": {
+      "mop": "https://www.amazon.in/s?k=potash+fertilizer",
+      "banana_special_fertilizer": "https://www.amazon.in/s?k=banana+fertilizer"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/53/Banana_plantation_India.jpg"
+    ],
+    "sources": ["ICAR NRC Banana"]
+  },
+
+  {
+    "crop": "Papaya",
+    "scientific_name": "Carica papaya",
+    "weather_soil": {
+      "climate": "Warm humid; 24-30°C",
+      "rainfall_mm": "1500-2000",
+      "soil_type": "Sandy-loam",
+      "pH_range": "6.0-7.0",
+      "organic_carbon_target_pct": "1.0-1.5"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "200:150:200",
+      "basal": {"N": 60, "P2O5": 60, "K2O": 80},
+      "top_dress_schedule": [
+        {"timing": "Monthly", "N": 20, "K2O": 20}
+      ]
+    },
+    "dosage_application_notes": "Avoid waterlogging; apply micronutrients.",
+    "common_pests": ["Aphids", "Mites"],
+    "common_diseases": ["Papaya ring spot virus"],
+    "recommended_tactics": "Roguing infected plants; yellow sticky traps.",
+    "representative_inputs_and_purchase_links": {
+      "organic_fertilizer": "https://www.amazon.in/s?k=organic+fertilizer",
+      "npk": "https://www.amazon.in/s?k=npk+fertilizer"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/bc/Papaya_farm_India.jpg"
+    ],
+    "sources": ["ICAR - Papaya Handbook"]
+  },
+
+  {
+    "crop": "Grapes",
+    "scientific_name": "Vitis vinifera",
+    "weather_soil": {
+      "climate": "Dry sub-tropical; 20-30°C",
+      "rainfall_mm": "600-800",
+      "soil_type": "Deep, well-drained loam",
+      "pH_range": "6.5-7.5",
+      "organic_carbon_target_pct": "1.0-1.5"
+    },
+    "optimal_npk_kg_per_ha": {
+      "target_total": "350:200:300",
+      "basal": {"N": 80, "P2O5": 80, "K2O": 150},
+      "top_dress_schedule": [
+        {"timing": "Flowering", "N": 100, "K2O": 100},
+        {"timing": "Berry set", "N": 100, "K2O": 50}
+      ]
+    },
+    "dosage_application_notes": "Drip fertigation preferred.",
+    "common_pests": ["Thrips", "Mealybug"],
+    "common_diseases": ["Downy mildew"],
+    "recommended_tactics": "Sulfur dusting and canopy management.",
+    "representative_inputs_and_purchase_links": {
+      "sulfur_dust": "https://www.amazon.in/s?k=sulphur+dust",
+      "drip_fertilizer": "https://www.amazon.in/s?k=water+soluble+fertilizer"
+    },
+    "image_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/fd/Grape_vineyard_Maharashtra.jpg"
+    ],
+    "sources": ["ICAR NRC Grapes"]
+  }
+]

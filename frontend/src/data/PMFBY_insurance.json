@@ -1,0 +1,106 @@
+{
+  "year": "2024-25",
+  "scheme_name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+  "official_website": "https://pmfby.gov.in",
+  "apply_online_url": "https://pmfby.gov.in/farmerRegistrationForm",
+  "common_details": {
+    "eligibility": {
+      "loanee_farmers": true,
+      "non_loanee_farmers": true,
+      "conditions": [
+        "Farmer must grow government-notified crop in notified area:contentReference[oaicite:27]{index=27}",
+        "Crop sowing must be declared (certificate):contentReference[oaicite:28]{index=28}",
+        "Aadhaar ID is mandatory for enrolment:contentReference[oaicite:29]{index=29}",
+        "Non-loanee farmers must provide land ownership documents:contentReference[oaicite:30]{index=30}"
+      ]
+    },
+    "premium_rates": {
+      "kharif": "2% of Sum Insured",
+      "rabi": "1.5% of Sum Insured",
+      "annual_commercial_horticulture": "5% of Sum Insured"
+    },
+    "coverage_details": {
+      "risks_covered": [
+        "Drought, dry spells",
+        "Flood, inundation",
+        "Hailstorm, storm, cyclone",
+        "Widespread pest and disease attack",
+        "Natural fire and lightning"
+      ],
+      "sum_insured_basis": "Scale of Finance per hectare:contentReference[oaicite:31]{index=31} (e.g. ~₹50,000/ha typical)"
+    },
+    "documents_required": [
+      "Aadhaar Card:contentReference[oaicite:32]{index=32}",
+      "Land ownership papers (7/12, RTC):contentReference[oaicite:33]{index=33}",
+      "Bank passbook (Aadhaar-linked):contentReference[oaicite:34]{index=34}",
+      "Crop sowing declaration/certificate:contentReference[oaicite:35]{index=35}"
+    ],
+    "claim_process": [
+      "Notify crop loss within 72 hours (with geo-tagged photos):contentReference[oaicite:36]{index=36}",
+      "Field verification (joint survey/inspection) by officials",
+      "Insurance company assesses loss and approves claim",
+      "Claim payout credited via DBT to farmer’s bank account:contentReference[oaicite:37]{index=37}"
+    ]
+  },
+  "insurance_companies": [
+    {"company": "Agriculture Insurance Company of India (AIC)", "website": "https://www.aicofindia.com"},
+    {"company": "National Insurance Company", "website": "https://www.nationalinsurance.co.in"},
+    {"company": "New India Assurance Company", "website": "https://www.newindia.co.in"},
+    {"company": "Oriental Insurance Company", "website": "https://www.orientalinsurance.org.in"},
+    {"company": "United India Insurance Company", "website": "https://www.uiic.co.in"},
+    {"company": "Bajaj Allianz General Insurance", "website": "https://www.bajajallianz.com"},
+    {"company": "Cholamandalam MS General Insurance", "website": "https://www.cholainsurance.com"},
+    {"company": "Future Generali India Insurance", "website": "https://www.futuregenerali.in"},
+    {"company": "HDFC ERGO General Insurance", "website": "https://www.hdfcergo.com"}
+  ],
+  "state_wise_details": [
+    {
+      "state": "Maharashtra",
+      "season": "Kharif",
+      "crops_notified": ["Soybean", "Cotton", "Paddy"],
+      "farmer_applications_insured": 28300000,
+      "claims_paid_crore": 18920,
+      "data_source": "Government data (as on mid-2025):contentReference[oaicite:38]{index=38}",
+      "apply_links": {
+        "state_portal": "https://mahaonline.gov.in",
+        "csc_center": "https://www.csc.gov.in"
+      }
+    },
+    {
+      "state": "Madhya Pradesh",
+      "season": "Kharif",
+      "crops_notified": ["Paddy", "Maize", "Urad", "Soybean"],
+      "farmer_applications_insured": 10900000,
+      "claims_paid_crore": 2892,
+      "data_source": "Government data (as on mid-2025):contentReference[oaicite:39]{index=39}",
+      "apply_links": {
+        "state_portal": "https://mpkrishi.mp.gov.in",
+        "csc_center": "https://www.csc.gov.in"
+      }
+    },
+    {
+      "state": "Rajasthan",
+      "season": "Kharif",
+      "crops_notified": ["Cotton", "Maize", "Groundnut"],
+      "farmer_applications_insured": 22700000,
+      "claims_paid_crore": 8281,
+      "data_source": "Government data (as on mid-2025):contentReference[oaicite:40]{index=40}",
+      "apply_links": {
+        "state_portal": "https://sso.rajasthan.gov.in",
+        "csc_center": "https://www.csc.gov.in"
+      }
+    },
+    {
+      "state": "Karnataka",
+      "season": "Kharif",
+      "crops_notified": ["Cotton", "Maize", "Paddy"],
+      "farmer_applications_insured": 5200000,
+      "claims_paid_crore": 6845,
+      "data_source": "Government data (as on mid-2025):contentReference[oaicite:41]{index=41}",
+      "apply_links": {
+        "state_portal": "https://e-pass.karnataka.gov.in",
+        "csc_center": "https://www.csc.gov.in"
+      }
+    }
+  ]
+}
